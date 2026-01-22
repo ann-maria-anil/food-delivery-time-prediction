@@ -62,7 +62,7 @@ The model is trained offline and loaded into the Streamlit app using `.pkl` file
 
 ## How to Run the Project Locally
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/ann-maria-anil/food-delivery-time-prediction.git
 2. Install dependencies: pip install -r requirements.txt
 3. Run the Streamlit app:streamlit run app.py
 
@@ -71,5 +71,6 @@ The model is trained offline and loaded into the Streamlit app using `.pkl` file
 
 ## Conclusion
 This project demonstrates the practical application of machine learning in predicting delivery times and highlights the integration of ML models with interactive web applications using Streamlit.
+
 
 
