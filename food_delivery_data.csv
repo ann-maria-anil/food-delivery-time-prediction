@@ -1,0 +1,1001 @@
+order_id,restaurant_type,distance_km,order_hour,day_of_week,weather_condition,traffic_density,items_count,preparation_time,vehicle_type,delivery_partner_rating,is_peak_hour,is_weekend,delivery_time_minutes,day_name,time_category
+ORD0001,Italian,1.98,13,5,Clear,4,2,36,Scooter,3.3,1,1,52.92,Saturday,Afternoon
+ORD0002,Cafe,2.72,19,2,Cloudy,1,5,31,Bike,4.8,1,0,24.74,Wednesday,Evening
+ORD0003,Chinese,4.07,12,2,Clear,5,4,31,Bike,3.6,1,0,66.05,Wednesday,Afternoon
+ORD0004,Cafe,2.83,11,5,Foggy,1,5,24,Bike,3.4,0,1,29.1,Saturday,Morning
+ORD0005,Cafe,3.21,17,6,Foggy,2,4,30,Bike,4.7,0,1,31.87,Sunday,Evening
+ORD0006,Indian,4.63,19,5,Rainy,5,5,34,Car,4.6,1,1,65.92,Saturday,Evening
+ORD0007,Chinese,3.01,22,2,Foggy,1,2,29,Bike,3.9,0,0,34.47,Wednesday,Night
+ORD0008,Chinese,13.5,8,3,Cloudy,3,4,32,Bike,4.0,0,0,64.83,Thursday,Morning
+ORD0009,Chinese,1.66,17,0,Rainy,4,1,20,Car,3.4,0,0,35.46,Monday,Evening
+ORD0010,Cafe,8.11,13,0,Clear,4,4,30,Bike,3.2,1,0,67.5,Monday,Afternoon
+ORD0011,Italian,6.45,9,5,Clear,3,7,47,Bike,4.1,0,1,57.66,Saturday,Morning
+ORD0012,Chinese,14.74,20,1,Rainy,2,2,23,Bike,3.2,1,0,82.11,Tuesday,Evening
+ORD0013,Dessert,2.12,10,5,Cloudy,5,6,20,Scooter,3.9,0,1,29.75,Saturday,Morning
+ORD0014,Cafe,6.27,21,6,Clear,4,4,27,Bike,4.9,1,1,45.4,Sunday,Night
+ORD0015,Indian,14.56,15,5,Cloudy,3,7,41,Car,4.9,0,1,51.67,Saturday,Afternoon
+ORD0016,Italian,13.05,17,0,Rainy,3,7,45,Bike,3.5,0,0,90.51,Monday,Evening
+ORD0017,Dessert,12.35,21,2,Clear,2,7,28,Bike,4.2,1,0,52.78,Wednesday,Night
+ORD0018,Dessert,4.24,21,5,Foggy,2,5,28,Bike,3.9,1,1,44.96,Saturday,Night
+ORD0019,Indian,2.98,13,2,Rainy,1,7,36,Scooter,4.8,1,0,45.57,Wednesday,Afternoon
+ORD0020,Italian,10.2,10,2,Clear,4,5,38,Bike,3.5,0,0,71.98,Wednesday,Morning
+ORD0021,Cafe,13.98,14,1,Rainy,1,6,26,Bike,3.0,1,0,73.13,Tuesday,Afternoon
+ORD0022,Fast Food,8.57,11,2,Clear,3,2,14,Bike,3.3,0,0,39.35,Wednesday,Morning
+ORD0023,Italian,8.79,21,0,Rainy,5,3,31,Scooter,3.7,1,0,105.09,Monday,Night
+ORD0024,Indian,4.56,16,3,Clear,5,5,33,Bike,3.6,0,0,53.84,Thursday,Afternoon
+ORD0025,Dessert,11.66,22,3,Clear,2,7,31,Scooter,4.6,0,0,51.27,Thursday,Night
+ORD0026,Cafe,3.21,12,4,Foggy,5,7,35,Scooter,4.4,1,0,63.72,Friday,Afternoon
+ORD0027,Italian,5.19,10,6,Rainy,5,1,36,Bike,3.6,0,1,67.84,Sunday,Morning
+ORD0028,Fast Food,6.67,9,5,Clear,5,7,31,Bike,3.9,0,1,47.62,Saturday,Morning
+ORD0029,Fast Food,7.86,18,6,Clear,3,2,13,Bike,3.2,0,1,33.91,Sunday,Evening
+ORD0030,Chinese,4.01,9,0,Foggy,5,4,29,Bike,4.8,0,0,45.06,Monday,Morning
+ORD0031,Chinese,2.17,10,2,Clear,5,4,35,Bike,4.9,0,0,45.33,Wednesday,Morning
+ORD0032,Indian,9.35,9,3,Clear,5,7,38,Bike,5.0,0,0,58.03,Thursday,Morning
+ORD0033,Italian,4.69,21,6,Clear,1,1,39,Bike,4.7,1,1,31.68,Sunday,Night
+ORD0034,Italian,8.93,11,0,Clear,3,5,47,Bike,3.3,0,0,66.48,Monday,Morning
+ORD0035,Dessert,2.74,9,3,Cloudy,2,2,11,Bike,3.1,0,0,16.32,Thursday,Morning
+ORD0036,Dessert,7.48,17,2,Cloudy,1,1,19,Bike,4.2,0,0,26.67,Wednesday,Evening
+ORD0037,Dessert,8.22,16,6,Clear,4,5,23,Scooter,4.8,0,1,37.75,Sunday,Afternoon
+ORD0038,Chinese,1.25,9,3,Rainy,3,2,26,Car,3.4,0,0,38.31,Thursday,Morning
+ORD0039,Italian,5.38,16,5,Clear,3,7,51,Scooter,3.0,0,1,68.84,Saturday,Afternoon
+ORD0040,Italian,2.45,20,5,Foggy,4,4,39,Bike,4.6,1,1,55.05,Saturday,Evening
+ORD0041,Fast Food,1.42,13,4,Foggy,4,2,19,Bike,3.2,1,0,42.4,Friday,Afternoon
+ORD0042,Chinese,14.85,8,4,Clear,4,7,41,Bike,3.8,0,0,78.41,Friday,Morning
+ORD0043,Cafe,5.17,11,3,Cloudy,2,6,25,Bike,4.4,0,0,25.39,Thursday,Morning
+ORD0044,Chinese,12.24,22,0,Cloudy,5,3,28,Bike,3.5,0,0,64.26,Monday,Night
+ORD0045,Cafe,4.19,21,5,Clear,3,2,18,Scooter,3.2,1,1,39.0,Saturday,Night
+ORD0046,Fast Food,10.38,8,0,Clear,5,3,20,Bike,4.5,0,0,46.78,Monday,Morning
+ORD0047,Indian,11.52,21,0,Clear,5,2,32,Bike,4.3,1,0,75.29,Monday,Night
+ORD0048,Italian,9.14,13,3,Cloudy,4,3,42,Car,5.0,1,0,58.51,Thursday,Afternoon
+ORD0049,Fast Food,7.34,21,0,Foggy,2,6,28,Bike,3.7,1,0,53.98,Monday,Night
+ORD0050,Italian,6.47,20,5,Cloudy,1,4,42,Bike,3.1,1,1,58.95,Saturday,Evening
+ORD0051,Dessert,5.56,11,2,Cloudy,2,5,21,Bike,4.5,0,0,19.24,Wednesday,Morning
+ORD0052,Indian,13.98,10,4,Rainy,5,3,26,Bike,4.0,0,0,84.81,Friday,Morning
+ORD0053,Indian,12.54,10,2,Cloudy,2,6,43,Scooter,3.4,0,0,75.84,Wednesday,Morning
+ORD0054,Fast Food,14.49,16,0,Cloudy,4,3,19,Bike,4.6,0,0,53.65,Monday,Afternoon
+ORD0055,Indian,2.3,13,2,Clear,1,4,39,Bike,3.4,1,0,38.89,Wednesday,Afternoon
+ORD0056,Cafe,11.1,16,5,Rainy,4,3,20,Scooter,3.5,0,1,72.2,Saturday,Afternoon
+ORD0057,Indian,14.11,20,5,Cloudy,1,6,37,Scooter,3.2,1,1,71.93,Saturday,Evening
+ORD0058,Italian,3.13,12,0,Clear,5,7,42,Car,3.8,1,0,67.12,Monday,Afternoon
+ORD0059,Italian,1.46,9,3,Cloudy,1,6,42,Scooter,3.8,0,0,38.75,Thursday,Morning
+ORD0060,Italian,11.25,15,2,Clear,1,1,38,Bike,4.0,0,0,46.52,Wednesday,Afternoon
+ORD0061,Italian,8.83,12,3,Rainy,1,4,40,Bike,4.4,1,0,66.41,Thursday,Afternoon
+ORD0062,Cafe,12.71,9,3,Cloudy,2,7,26,Bike,4.8,0,0,40.83,Thursday,Morning
+ORD0063,Chinese,2.53,11,1,Clear,2,1,21,Bike,3.3,0,0,17.88,Tuesday,Morning
+ORD0064,Dessert,12.03,16,0,Clear,5,4,16,Scooter,3.1,0,0,62.26,Monday,Afternoon
+ORD0065,Fast Food,3.42,22,4,Clear,1,7,20,Scooter,3.0,0,0,21.25,Friday,Night
+ORD0066,Italian,2.87,11,5,Cloudy,3,3,43,Bike,3.3,0,1,46.69,Saturday,Morning
+ORD0067,Indian,2.88,20,5,Clear,5,7,40,Bike,4.3,1,1,63.57,Saturday,Evening
+ORD0068,Italian,12.31,19,0,Foggy,1,6,46,Bike,4.5,1,0,71.8,Monday,Evening
+ORD0069,Indian,10.15,19,6,Clear,1,1,34,Car,4.6,1,1,39.3,Sunday,Evening
+ORD0070,Dessert,8.08,19,6,Foggy,2,3,22,Bike,3.5,1,1,52.55,Sunday,Evening
+ORD0071,Dessert,5.7,20,6,Foggy,5,6,29,Scooter,3.6,1,1,70.31,Sunday,Evening
+ORD0072,Dessert,13.22,22,4,Clear,1,4,24,Scooter,4.0,0,0,43.09,Friday,Night
+ORD0073,Indian,6.19,21,5,Rainy,1,7,39,Car,3.1,1,1,58.24,Saturday,Night
+ORD0074,Italian,12.34,11,0,Clear,5,6,40,Scooter,4.2,0,0,84.99,Monday,Morning
+ORD0075,Dessert,6.87,9,5,Rainy,3,3,17,Scooter,5.0,0,1,38.92,Saturday,Morning
+ORD0076,Cafe,5.97,20,3,Clear,5,1,12,Bike,3.7,1,0,38.32,Thursday,Evening
+ORD0077,Indian,7.21,19,2,Clear,5,1,28,Bike,4.5,1,0,58.0,Wednesday,Evening
+ORD0078,Indian,4.87,22,2,Clear,3,7,41,Bike,4.0,0,0,46.86,Wednesday,Night
+ORD0079,Italian,11.34,13,5,Clear,5,6,45,Bike,3.3,1,1,102.39,Saturday,Afternoon
+ORD0080,Indian,7.79,20,1,Clear,1,3,33,Car,4.2,1,0,37.12,Tuesday,Evening
+ORD0081,Indian,3.87,18,4,Rainy,5,2,28,Bike,3.6,0,0,59.42,Friday,Evening
+ORD0082,Dessert,13.54,21,6,Foggy,3,4,17,Scooter,3.1,1,1,79.45,Sunday,Night
+ORD0083,Italian,6.07,9,4,Clear,4,4,42,Bike,4.3,0,0,51.59,Friday,Morning
+ORD0084,Dessert,8.38,19,4,Rainy,5,3,23,Bike,4.7,1,0,67.91,Friday,Evening
+ORD0085,Dessert,13.64,14,3,Clear,2,2,19,Car,3.7,1,0,40.88,Thursday,Afternoon
+ORD0086,Italian,9.55,10,4,Cloudy,1,1,32,Bike,3.8,0,0,43.97,Friday,Morning
+ORD0087,Fast Food,2.2,22,2,Foggy,1,7,23,Bike,4.8,0,0,23.43,Wednesday,Night
+ORD0088,Dessert,14.13,10,3,Cloudy,2,5,29,Bike,4.6,0,0,47.31,Thursday,Morning
+ORD0089,Cafe,9.6,12,0,Foggy,2,5,22,Scooter,4.4,1,0,50.65,Monday,Afternoon
+ORD0090,Cafe,5.36,10,4,Clear,5,7,29,Bike,3.5,0,0,48.14,Friday,Morning
+ORD0091,Indian,2.52,9,4,Cloudy,2,3,28,Bike,4.8,0,0,24.4,Friday,Morning
+ORD0092,Cafe,12.01,17,0,Cloudy,4,2,23,Bike,3.3,0,0,57.07,Monday,Evening
+ORD0093,Indian,9.49,16,4,Clear,3,2,35,Scooter,4.3,0,0,50.22,Friday,Afternoon
+ORD0094,Fast Food,8.24,9,0,Foggy,2,4,18,Scooter,3.1,0,0,42.62,Monday,Morning
+ORD0095,Italian,13.46,21,3,Clear,2,1,30,Bike,4.3,1,0,56.76,Thursday,Night
+ORD0096,Italian,11.93,18,2,Rainy,4,6,38,Bike,3.6,0,0,89.1,Wednesday,Evening
+ORD0097,Italian,2.7,9,0,Clear,1,2,36,Scooter,3.9,0,0,35.43,Monday,Morning
+ORD0098,Cafe,5.02,20,1,Clear,1,7,27,Bike,3.7,1,0,35.69,Tuesday,Evening
+ORD0099,Fast Food,4.1,22,0,Cloudy,5,6,25,Bike,3.3,0,0,40.51,Monday,Night
+ORD0100,Cafe,11.29,15,4,Rainy,4,5,26,Bike,4.2,0,0,71.57,Friday,Afternoon
+ORD0101,Cafe,0.99,22,6,Clear,3,6,33,Scooter,4.8,0,1,30.45,Sunday,Night
+ORD0102,Fast Food,8.76,16,6,Clear,3,1,8,Bike,4.9,0,1,22.73,Sunday,Afternoon
+ORD0103,Fast Food,11.56,14,3,Cloudy,4,7,22,Bike,3.4,1,0,65.66,Thursday,Afternoon
+ORD0104,Fast Food,13.21,10,5,Clear,3,1,11,Scooter,4.4,0,1,40.37,Saturday,Morning
+ORD0105,Fast Food,5.46,16,3,Clear,1,6,19,Scooter,4.3,0,0,22.08,Thursday,Afternoon
+ORD0106,Italian,12.41,10,5,Foggy,3,3,39,Bike,3.7,0,1,70.4,Saturday,Morning
+ORD0107,Chinese,2.1,12,6,Cloudy,3,2,31,Bike,3.0,1,1,47.31,Sunday,Afternoon
+ORD0108,Chinese,12.77,16,6,Clear,4,7,33,Scooter,4.4,0,1,63.27,Sunday,Afternoon
+ORD0109,Fast Food,2.35,19,0,Cloudy,4,3,12,Car,4.9,1,0,17.81,Monday,Evening
+ORD0110,Chinese,6.26,21,2,Cloudy,3,6,37,Scooter,4.3,1,0,55.57,Wednesday,Night
+ORD0111,Chinese,12.06,21,1,Cloudy,2,2,21,Bike,3.9,1,0,48.16,Tuesday,Night
+ORD0112,Fast Food,2.67,10,3,Rainy,4,4,21,Bike,4.1,0,0,44.2,Thursday,Morning
+ORD0113,Chinese,3.82,14,4,Clear,5,3,27,Scooter,3.4,1,0,53.94,Friday,Afternoon
+ORD0114,Cafe,10.97,19,5,Clear,5,3,17,Scooter,4.5,1,1,63.52,Saturday,Evening
+ORD0115,Indian,10.94,8,4,Clear,1,6,40,Bike,4.5,0,0,42.98,Friday,Morning
+ORD0116,Indian,9.8,11,2,Rainy,3,5,33,Bike,3.3,0,0,75.59,Wednesday,Morning
+ORD0117,Fast Food,10.56,11,5,Clear,2,6,29,Scooter,4.8,0,1,44.84,Saturday,Morning
+ORD0118,Italian,8.37,14,3,Rainy,1,3,39,Bike,3.5,1,0,69.95,Thursday,Afternoon
+ORD0119,Fast Food,4.15,15,0,Clear,3,2,21,Bike,5.0,0,0,23.09,Monday,Afternoon
+ORD0120,Italian,5.51,8,4,Clear,4,5,36,Bike,3.8,0,0,50.83,Friday,Morning
+ORD0121,Indian,3.13,12,2,Cloudy,5,6,43,Bike,3.4,1,0,73.25,Wednesday,Afternoon
+ORD0122,Fast Food,13.67,14,3,Clear,2,7,28,Bike,3.7,1,0,66.85,Thursday,Afternoon
+ORD0123,Dessert,8.96,19,6,Clear,5,6,30,Scooter,3.9,1,1,69.21,Sunday,Evening
+ORD0124,Cafe,6.31,11,6,Cloudy,4,3,19,Bike,3.1,0,1,31.84,Sunday,Morning
+ORD0125,Chinese,7.2,20,3,Clear,3,3,25,Bike,4.2,1,0,39.74,Thursday,Evening
+ORD0126,Italian,14.24,11,3,Cloudy,4,4,34,Bike,4.2,0,0,64.54,Thursday,Morning
+ORD0127,Dessert,2.72,11,3,Cloudy,4,6,28,Bike,4.5,0,0,34.64,Thursday,Morning
+ORD0128,Chinese,9.0,19,5,Clear,5,3,21,Bike,3.1,1,1,63.67,Saturday,Evening
+ORD0129,Chinese,7.84,13,3,Cloudy,2,7,35,Bike,4.1,1,0,49.42,Thursday,Afternoon
+ORD0130,Fast Food,9.37,14,4,Rainy,4,1,16,Scooter,3.1,1,0,78.74,Friday,Afternoon
+ORD0131,Chinese,0.76,9,2,Clear,5,5,25,Bike,4.4,0,0,24.98,Wednesday,Morning
+ORD0132,Cafe,13.15,22,5,Clear,2,1,22,Bike,3.1,0,1,43.16,Saturday,Night
+ORD0133,Dessert,14.02,12,3,Clear,3,5,27,Bike,4.8,1,0,60.4,Thursday,Afternoon
+ORD0134,Chinese,8.69,11,1,Foggy,3,7,36,Bike,4.4,0,0,61.68,Tuesday,Morning
+ORD0135,Fast Food,10.6,22,1,Clear,1,6,19,Scooter,4.0,0,0,34.13,Tuesday,Night
+ORD0136,Cafe,13.88,21,2,Rainy,5,4,27,Bike,3.9,1,0,111.79,Wednesday,Night
+ORD0137,Indian,10.75,20,6,Rainy,2,3,31,Car,3.3,1,1,71.79,Sunday,Evening
+ORD0138,Dessert,2.71,10,0,Rainy,4,3,19,Bike,3.6,0,0,40.35,Monday,Morning
+ORD0139,Chinese,8.86,14,0,Clear,3,3,30,Scooter,4.7,1,0,54.7,Monday,Afternoon
+ORD0140,Fast Food,9.3,18,6,Clear,2,6,17,Bike,4.8,0,1,31.2,Sunday,Evening
+ORD0141,Indian,6.65,19,5,Cloudy,5,5,35,Scooter,3.0,1,1,86.72,Saturday,Evening
+ORD0142,Indian,11.18,13,5,Clear,1,7,40,Bike,4.2,1,1,50.57,Saturday,Afternoon
+ORD0143,Italian,14.05,21,5,Clear,3,3,36,Bike,4.4,1,1,67.73,Saturday,Night
+ORD0144,Cafe,13.92,14,0,Clear,2,1,15,Scooter,4.2,1,0,50.42,Monday,Afternoon
+ORD0145,Chinese,7.04,12,1,Clear,2,3,21,Scooter,3.2,1,0,41.91,Tuesday,Afternoon
+ORD0146,Fast Food,2.14,20,0,Cloudy,2,6,27,Bike,3.4,1,0,30.31,Monday,Evening
+ORD0147,Italian,14.78,13,4,Clear,5,7,47,Bike,3.5,1,0,116.33,Friday,Afternoon
+ORD0148,Cafe,12.66,12,3,Clear,5,4,21,Bike,4.7,1,0,62.98,Thursday,Afternoon
+ORD0149,Italian,2.31,21,5,Clear,5,7,45,Scooter,3.9,1,1,64.94,Saturday,Night
+ORD0150,Dessert,13.85,14,1,Cloudy,4,1,15,Bike,4.0,1,0,59.49,Tuesday,Afternoon
+ORD0151,Cafe,13.11,9,2,Rainy,2,3,17,Bike,4.9,0,0,44.99,Wednesday,Morning
+ORD0152,Cafe,8.02,21,2,Clear,3,3,16,Scooter,4.3,1,0,40.46,Wednesday,Night
+ORD0153,Chinese,9.07,18,3,Cloudy,5,2,26,Scooter,4.8,0,0,52.6,Thursday,Evening
+ORD0154,Cafe,6.29,12,1,Rainy,5,5,27,Scooter,3.9,1,0,79.71,Tuesday,Afternoon
+ORD0155,Italian,1.29,13,0,Cloudy,2,1,33,Scooter,3.3,1,0,38.25,Monday,Afternoon
+ORD0156,Cafe,5.36,13,0,Cloudy,5,2,21,Scooter,4.9,1,0,41.0,Monday,Afternoon
+ORD0157,Chinese,12.14,22,4,Clear,4,7,31,Bike,3.9,0,0,62.16,Friday,Night
+ORD0158,Chinese,0.57,12,4,Clear,4,4,33,Bike,3.4,1,0,43.65,Friday,Afternoon
+ORD0159,Dessert,5.34,17,0,Clear,5,5,18,Scooter,3.6,0,0,36.78,Monday,Evening
+ORD0160,Italian,6.27,14,2,Clear,2,1,33,Bike,3.1,1,0,54.16,Wednesday,Afternoon
+ORD0161,Indian,8.29,17,5,Foggy,2,3,33,Car,3.9,0,1,48.03,Saturday,Evening
+ORD0162,Indian,13.84,15,2,Clear,2,7,34,Bike,4.7,0,0,52.03,Wednesday,Afternoon
+ORD0163,Cafe,5.52,14,4,Clear,1,1,23,Bike,4.9,1,0,23.46,Friday,Afternoon
+ORD0164,Dessert,5.53,12,3,Cloudy,5,3,22,Car,4.9,1,0,37.28,Thursday,Afternoon
+ORD0165,Fast Food,11.19,8,0,Rainy,2,5,23,Scooter,3.3,0,0,65.81,Monday,Morning
+ORD0166,Cafe,7.06,20,4,Clear,4,3,28,Bike,3.8,1,0,54.8,Friday,Evening
+ORD0167,Dessert,3.76,12,4,Clear,3,4,25,Scooter,3.1,1,0,46.42,Friday,Afternoon
+ORD0168,Italian,7.06,17,5,Clear,3,7,42,Scooter,4.7,0,1,50.65,Saturday,Evening
+ORD0169,Italian,2.54,9,0,Cloudy,2,6,48,Bike,3.7,0,0,46.85,Monday,Morning
+ORD0170,Italian,3.06,20,5,Clear,3,3,34,Bike,4.3,1,1,45.43,Saturday,Evening
+ORD0171,Italian,7.73,12,0,Clear,3,4,35,Scooter,4.4,1,0,61.84,Monday,Afternoon
+ORD0172,Italian,6.57,12,5,Rainy,1,6,42,Scooter,3.9,1,1,65.39,Saturday,Afternoon
+ORD0173,Dessert,13.77,9,2,Clear,4,7,21,Bike,3.6,0,0,57.41,Wednesday,Morning
+ORD0174,Dessert,5.75,12,3,Rainy,4,5,22,Scooter,4.9,1,0,53.79,Thursday,Afternoon
+ORD0175,Chinese,8.92,20,3,Clear,1,5,26,Scooter,4.9,1,0,35.43,Thursday,Evening
+ORD0176,Indian,9.67,11,0,Clear,1,7,42,Bike,3.6,0,0,42.96,Monday,Morning
+ORD0177,Italian,0.69,8,1,Foggy,3,7,40,Scooter,4.0,0,0,47.33,Tuesday,Morning
+ORD0178,Fast Food,10.12,10,6,Rainy,5,1,13,Bike,4.9,0,1,48.62,Sunday,Morning
+ORD0179,Dessert,3.08,8,4,Clear,3,4,26,Bike,3.0,0,0,33.74,Friday,Morning
+ORD0180,Fast Food,14.44,19,4,Rainy,1,4,13,Scooter,3.8,1,0,68.02,Friday,Evening
+ORD0181,Fast Food,2.66,18,0,Cloudy,4,7,30,Scooter,3.2,0,0,42.43,Monday,Evening
+ORD0182,Fast Food,6.51,22,5,Cloudy,3,2,15,Scooter,4.0,0,1,23.99,Saturday,Night
+ORD0183,Chinese,1.74,12,1,Clear,5,2,23,Bike,3.0,1,0,44.5,Tuesday,Afternoon
+ORD0184,Dessert,14.95,11,2,Foggy,3,6,26,Bike,3.8,0,0,68.07,Wednesday,Morning
+ORD0185,Fast Food,7.78,14,5,Clear,2,6,20,Bike,3.4,1,1,41.56,Saturday,Afternoon
+ORD0186,Italian,9.13,12,5,Clear,3,2,40,Bike,4.1,1,1,59.48,Saturday,Afternoon
+ORD0187,Cafe,1.47,17,0,Clear,1,7,33,Bike,5.0,0,0,23.15,Monday,Evening
+ORD0188,Fast Food,11.37,21,0,Clear,4,7,25,Bike,4.6,1,0,55.83,Monday,Night
+ORD0189,Chinese,3.54,11,4,Cloudy,4,6,32,Bike,4.7,0,0,37.6,Friday,Morning
+ORD0190,Dessert,13.52,9,0,Clear,1,3,17,Scooter,4.3,0,0,40.87,Monday,Morning
+ORD0191,Chinese,3.47,11,0,Clear,2,7,32,Bike,3.1,0,0,38.24,Monday,Morning
+ORD0192,Fast Food,3.26,19,0,Cloudy,1,2,15,Bike,3.4,1,0,21.02,Monday,Evening
+ORD0193,Dessert,1.03,9,4,Clear,3,4,26,Bike,4.9,0,0,18.44,Friday,Morning
+ORD0194,Cafe,7.34,15,2,Clear,1,7,28,Bike,3.7,0,0,35.49,Wednesday,Afternoon
+ORD0195,Fast Food,8.69,10,2,Clear,1,7,23,Bike,3.2,0,0,37.3,Wednesday,Morning
+ORD0196,Chinese,1.45,16,6,Clear,2,3,21,Bike,4.4,0,1,15.0,Sunday,Afternoon
+ORD0197,Indian,11.75,20,6,Clear,3,6,33,Scooter,3.6,1,1,72.16,Sunday,Evening
+ORD0198,Italian,7.07,11,0,Rainy,5,7,43,Bike,3.5,0,0,96.77,Monday,Morning
+ORD0199,Chinese,8.1,20,6,Clear,5,5,37,Scooter,5.0,1,1,66.46,Sunday,Evening
+ORD0200,Dessert,6.89,13,4,Clear,4,1,11,Car,4.7,1,0,24.55,Friday,Afternoon
+ORD0201,Fast Food,6.31,17,2,Cloudy,1,2,21,Scooter,3.8,0,0,29.57,Wednesday,Evening
+ORD0202,Italian,8.61,12,5,Rainy,4,5,36,Bike,5.0,1,1,71.14,Saturday,Afternoon
+ORD0203,Fast Food,2.75,17,2,Clear,2,6,20,Car,4.3,0,0,20.13,Wednesday,Evening
+ORD0204,Dessert,3.14,20,2,Rainy,5,4,18,Bike,4.5,1,0,40.19,Wednesday,Evening
+ORD0205,Fast Food,13.0,8,4,Clear,1,1,10,Bike,3.1,0,0,31.57,Friday,Morning
+ORD0206,Indian,14.22,16,6,Clear,2,5,33,Scooter,3.2,0,1,67.8,Sunday,Afternoon
+ORD0207,Italian,5.91,8,5,Rainy,2,1,29,Scooter,4.3,0,1,37.06,Saturday,Morning
+ORD0208,Italian,4.43,15,4,Clear,1,2,41,Bike,4.8,0,0,33.68,Friday,Afternoon
+ORD0209,Dessert,9.84,16,0,Foggy,2,6,30,Bike,4.2,0,0,53.15,Monday,Afternoon
+ORD0210,Indian,6.43,16,3,Clear,1,7,40,Bike,3.3,0,0,40.82,Thursday,Afternoon
+ORD0211,Chinese,0.87,8,2,Cloudy,1,4,31,Bike,3.2,0,0,28.62,Wednesday,Morning
+ORD0212,Fast Food,2.76,9,3,Clear,3,6,28,Bike,4.7,0,0,25.48,Thursday,Morning
+ORD0213,Cafe,10.88,19,4,Cloudy,4,1,16,Car,3.3,1,0,48.61,Friday,Evening
+ORD0214,Fast Food,10.05,20,4,Rainy,2,5,18,Car,4.0,1,0,45.52,Friday,Evening
+ORD0215,Fast Food,0.89,8,4,Cloudy,2,2,19,Scooter,3.1,0,0,22.54,Friday,Morning
+ORD0216,Chinese,3.72,17,3,Clear,3,2,20,Bike,3.2,0,0,24.1,Thursday,Evening
+ORD0217,Fast Food,3.85,9,4,Rainy,3,6,18,Scooter,4.3,0,0,38.38,Friday,Morning
+ORD0218,Indian,10.24,17,0,Rainy,3,7,38,Car,4.4,0,0,64.31,Monday,Evening
+ORD0219,Indian,0.79,19,4,Cloudy,5,5,36,Scooter,3.7,1,0,55.62,Friday,Evening
+ORD0220,Italian,2.01,15,1,Rainy,5,7,48,Bike,3.4,0,0,85.09,Tuesday,Afternoon
+ORD0221,Dessert,12.1,12,6,Rainy,5,7,30,Bike,4.6,1,1,90.05,Sunday,Afternoon
+ORD0222,Cafe,3.09,19,3,Clear,1,5,28,Bike,3.4,1,0,30.5,Thursday,Evening
+ORD0223,Fast Food,9.96,18,1,Clear,2,1,19,Bike,4.1,0,0,37.77,Tuesday,Evening
+ORD0224,Fast Food,3.95,14,4,Clear,4,6,23,Scooter,4.9,1,0,35.45,Friday,Afternoon
+ORD0225,Chinese,1.94,9,0,Clear,1,6,31,Scooter,3.3,0,0,26.16,Monday,Morning
+ORD0226,Dessert,4.03,15,2,Foggy,2,3,22,Bike,4.9,0,0,29.29,Wednesday,Afternoon
+ORD0227,Indian,10.97,18,5,Cloudy,2,6,41,Bike,3.4,0,1,56.34,Saturday,Evening
+ORD0228,Cafe,12.91,13,6,Foggy,3,2,23,Bike,4.1,1,1,70.32,Sunday,Afternoon
+ORD0229,Italian,12.54,15,5,Clear,3,1,32,Bike,3.8,0,1,55.03,Saturday,Afternoon
+ORD0230,Indian,6.26,8,4,Cloudy,1,5,40,Bike,4.9,0,0,31.61,Friday,Morning
+ORD0231,Dessert,10.19,22,6,Cloudy,3,6,30,Scooter,3.5,0,1,56.93,Sunday,Night
+ORD0232,Italian,3.47,8,6,Rainy,2,1,29,Bike,3.8,0,1,36.83,Sunday,Morning
+ORD0233,Chinese,4.75,19,0,Rainy,3,6,31,Scooter,5.0,1,0,53.19,Monday,Evening
+ORD0234,Chinese,13.5,14,6,Clear,5,5,32,Bike,4.1,1,1,83.55,Sunday,Afternoon
+ORD0235,Fast Food,0.69,15,3,Cloudy,3,4,13,Bike,4.0,0,0,18.83,Thursday,Afternoon
+ORD0236,Dessert,1.74,20,1,Rainy,2,5,28,Bike,3.5,1,0,42.55,Tuesday,Evening
+ORD0237,Cafe,3.51,10,1,Clear,1,5,20,Scooter,4.4,0,0,17.23,Tuesday,Morning
+ORD0238,Italian,0.88,12,1,Clear,4,5,41,Bike,3.0,1,0,59.55,Tuesday,Afternoon
+ORD0239,Indian,3.13,19,3,Foggy,3,6,36,Scooter,3.1,1,0,68.67,Thursday,Evening
+ORD0240,Dessert,8.95,8,5,Cloudy,2,3,17,Bike,4.2,0,1,29.36,Saturday,Morning
+ORD0241,Dessert,6.61,14,0,Foggy,4,5,17,Scooter,3.7,1,0,59.72,Monday,Afternoon
+ORD0242,Chinese,13.44,12,6,Rainy,4,2,27,Scooter,4.9,1,1,90.24,Sunday,Afternoon
+ORD0243,Fast Food,12.35,15,3,Clear,5,2,9,Bike,4.8,0,0,35.02,Thursday,Afternoon
+ORD0244,Fast Food,5.46,20,1,Clear,4,1,11,Scooter,4.4,1,0,29.96,Tuesday,Evening
+ORD0245,Italian,4.26,15,4,Clear,2,3,40,Bike,4.6,0,0,32.82,Friday,Afternoon
+ORD0246,Chinese,6.01,16,2,Clear,2,1,25,Scooter,4.3,0,0,36.59,Wednesday,Afternoon
+ORD0247,Dessert,9.06,14,6,Clear,3,2,14,Bike,3.3,1,1,34.81,Sunday,Afternoon
+ORD0248,Cafe,4.39,18,3,Clear,3,7,36,Bike,4.5,0,0,35.47,Thursday,Evening
+ORD0249,Chinese,9.55,8,3,Clear,3,2,26,Scooter,3.4,0,0,52.46,Thursday,Morning
+ORD0250,Italian,6.44,20,0,Foggy,4,4,38,Scooter,3.6,1,0,90.26,Monday,Evening
+ORD0251,Italian,8.5,10,0,Clear,4,5,45,Bike,4.6,0,0,59.13,Monday,Morning
+ORD0252,Chinese,6.82,15,3,Cloudy,5,7,31,Scooter,4.1,0,0,55.72,Thursday,Afternoon
+ORD0253,Italian,4.77,10,1,Rainy,3,2,32,Bike,4.7,0,0,45.22,Tuesday,Morning
+ORD0254,Chinese,14.25,15,2,Clear,1,6,28,Bike,3.4,0,0,47.79,Wednesday,Afternoon
+ORD0255,Indian,11.57,8,6,Clear,5,6,32,Scooter,4.2,0,1,65.29,Sunday,Morning
+ORD0256,Chinese,2.53,12,0,Clear,1,1,29,Bike,3.2,1,0,29.99,Monday,Afternoon
+ORD0257,Chinese,13.09,11,6,Clear,4,7,36,Bike,4.3,0,1,67.26,Sunday,Morning
+ORD0258,Italian,7.57,12,1,Rainy,5,1,27,Scooter,4.5,1,0,81.86,Tuesday,Afternoon
+ORD0259,Italian,13.47,15,6,Clear,5,5,47,Bike,4.2,0,1,84.28,Sunday,Afternoon
+ORD0260,Fast Food,12.1,17,4,Clear,2,5,25,Scooter,3.5,0,0,53.05,Friday,Evening
+ORD0261,Fast Food,6.67,22,0,Clear,4,4,13,Bike,3.1,0,0,32.81,Monday,Night
+ORD0262,Indian,0.83,21,1,Foggy,4,3,29,Bike,3.2,1,0,51.85,Tuesday,Night
+ORD0263,Fast Food,4.4,11,1,Cloudy,5,1,16,Bike,4.2,0,0,31.08,Tuesday,Morning
+ORD0264,Chinese,8.35,18,2,Cloudy,4,5,36,Scooter,4.9,0,0,56.54,Wednesday,Evening
+ORD0265,Italian,9.69,11,2,Clear,5,1,36,Scooter,3.4,0,0,78.75,Wednesday,Morning
+ORD0266,Fast Food,4.24,22,4,Cloudy,2,5,20,Bike,4.5,0,0,25.42,Friday,Night
+ORD0267,Fast Food,2.52,10,1,Cloudy,5,2,17,Bike,4.7,0,0,15.83,Tuesday,Morning
+ORD0268,Indian,12.61,14,5,Rainy,4,1,22,Car,4.0,1,1,73.71,Saturday,Afternoon
+ORD0269,Dessert,14.77,10,1,Foggy,4,2,17,Bike,4.3,0,0,59.86,Tuesday,Morning
+ORD0270,Indian,8.12,19,2,Clear,5,1,31,Scooter,4.6,1,0,69.69,Wednesday,Evening
+ORD0271,Chinese,2.99,10,5,Foggy,5,3,31,Bike,3.5,0,1,50.28,Saturday,Morning
+ORD0272,Italian,4.45,18,0,Foggy,5,4,37,Scooter,3.6,0,0,67.56,Monday,Evening
+ORD0273,Indian,0.77,17,0,Clear,3,6,43,Bike,3.0,0,0,47.66,Monday,Evening
+ORD0274,Fast Food,13.76,12,6,Clear,4,6,24,Scooter,4.9,1,1,61.32,Sunday,Afternoon
+ORD0275,Italian,2.21,12,3,Foggy,4,6,43,Scooter,4.8,1,0,63.05,Thursday,Afternoon
+ORD0276,Italian,8.86,21,2,Clear,3,2,32,Bike,4.5,1,0,51.57,Wednesday,Night
+ORD0277,Fast Food,4.47,13,3,Rainy,5,7,22,Bike,3.2,1,0,63.19,Thursday,Afternoon
+ORD0278,Indian,8.54,15,5,Foggy,2,5,35,Scooter,3.9,0,1,58.82,Saturday,Afternoon
+ORD0279,Fast Food,9.95,17,2,Rainy,5,6,22,Scooter,3.2,0,0,82.65,Wednesday,Evening
+ORD0280,Dessert,12.53,13,4,Clear,5,3,21,Bike,3.0,1,0,79.39,Friday,Afternoon
+ORD0281,Italian,3.49,22,1,Rainy,3,6,48,Bike,4.2,0,0,67.01,Tuesday,Night
+ORD0282,Cafe,0.66,19,4,Clear,4,1,16,Scooter,4.9,1,0,17.26,Friday,Evening
+ORD0283,Cafe,2.48,8,5,Rainy,5,2,21,Bike,4.8,0,1,31.24,Saturday,Morning
+ORD0284,Chinese,13.55,22,2,Clear,4,7,33,Scooter,4.4,0,0,74.59,Wednesday,Night
+ORD0285,Fast Food,13.17,15,5,Rainy,1,1,8,Bike,3.2,0,1,37.92,Saturday,Afternoon
+ORD0286,Fast Food,9.16,15,1,Rainy,4,7,24,Scooter,3.5,0,0,74.31,Tuesday,Afternoon
+ORD0287,Chinese,9.21,16,0,Cloudy,2,1,25,Car,3.6,0,0,38.46,Monday,Afternoon
+ORD0288,Chinese,10.14,16,0,Rainy,2,1,29,Car,4.5,0,0,44.29,Monday,Afternoon
+ORD0289,Chinese,3.04,9,5,Rainy,5,4,25,Bike,4.6,0,1,38.56,Saturday,Morning
+ORD0290,Italian,13.76,22,3,Rainy,4,4,33,Scooter,3.8,0,0,101.94,Thursday,Night
+ORD0291,Dessert,6.57,9,2,Clear,5,5,17,Bike,3.8,0,0,31.55,Wednesday,Morning
+ORD0292,Fast Food,6.06,10,2,Rainy,3,2,21,Bike,3.1,0,0,46.82,Wednesday,Morning
+ORD0293,Italian,8.02,8,0,Clear,2,3,33,Bike,3.6,0,0,41.87,Monday,Morning
+ORD0294,Chinese,1.18,11,6,Foggy,5,3,30,Bike,3.9,0,1,45.85,Sunday,Morning
+ORD0295,Fast Food,2.91,21,4,Clear,3,3,15,Car,3.2,1,0,26.37,Friday,Night
+ORD0296,Italian,11.2,11,6,Clear,5,1,29,Bike,3.9,0,1,63.88,Sunday,Morning
+ORD0297,Dessert,1.7,21,1,Rainy,4,4,23,Scooter,4.7,1,0,39.93,Tuesday,Night
+ORD0298,Italian,9.25,16,4,Clear,4,2,36,Scooter,4.2,0,0,62.52,Friday,Afternoon
+ORD0299,Dessert,4.06,16,4,Clear,4,1,11,Scooter,3.2,0,0,25.3,Friday,Afternoon
+ORD0300,Chinese,6.14,16,5,Rainy,4,7,37,Bike,3.4,0,1,68.9,Saturday,Afternoon
+ORD0301,Dessert,4.69,17,0,Rainy,1,4,27,Bike,3.9,0,0,43.36,Monday,Evening
+ORD0302,Fast Food,5.66,14,6,Cloudy,3,4,18,Scooter,3.7,1,1,40.26,Sunday,Afternoon
+ORD0303,Chinese,10.93,21,6,Clear,3,6,39,Bike,3.7,1,1,67.37,Sunday,Night
+ORD0304,Fast Food,4.81,22,0,Rainy,4,6,23,Bike,4.1,0,0,52.85,Monday,Night
+ORD0305,Cafe,8.71,9,6,Clear,1,2,17,Bike,4.2,0,1,23.27,Sunday,Morning
+ORD0306,Indian,7.4,17,0,Rainy,4,7,37,Bike,4.6,0,0,67.03,Monday,Evening
+ORD0307,Dessert,10.12,12,5,Rainy,1,2,22,Scooter,3.7,1,1,59.46,Saturday,Afternoon
+ORD0308,Indian,14.08,11,3,Rainy,4,2,36,Bike,4.6,0,0,79.58,Thursday,Morning
+ORD0309,Indian,11.12,19,4,Clear,2,1,23,Bike,3.7,1,0,47.57,Friday,Evening
+ORD0310,Dessert,3.62,18,5,Clear,2,5,21,Bike,3.1,0,1,30.57,Saturday,Evening
+ORD0311,Chinese,0.95,15,2,Clear,5,2,26,Bike,4.1,0,0,30.55,Wednesday,Afternoon
+ORD0312,Cafe,4.3,9,1,Clear,4,6,28,Bike,4.2,0,0,40.78,Tuesday,Morning
+ORD0313,Fast Food,9.13,13,3,Clear,3,5,21,Bike,4.9,1,0,39.47,Thursday,Afternoon
+ORD0314,Italian,1.25,20,2,Rainy,5,1,32,Bike,4.5,1,0,56.5,Wednesday,Evening
+ORD0315,Fast Food,7.7,12,4,Clear,2,5,17,Scooter,4.8,1,0,39.67,Friday,Afternoon
+ORD0316,Italian,9.15,22,6,Foggy,4,3,35,Bike,4.8,0,1,59.69,Sunday,Night
+ORD0317,Fast Food,5.35,19,0,Clear,5,7,31,Bike,4.2,1,0,56.2,Monday,Evening
+ORD0318,Dessert,11.68,9,4,Cloudy,4,5,17,Bike,4.1,0,0,43.0,Friday,Morning
+ORD0319,Cafe,2.05,18,5,Rainy,2,2,20,Bike,4.1,0,1,22.65,Saturday,Evening
+ORD0320,Italian,1.59,17,1,Clear,5,1,35,Car,5.0,0,0,40.38,Tuesday,Evening
+ORD0321,Chinese,11.06,22,5,Clear,2,7,29,Bike,4.5,0,1,41.74,Saturday,Night
+ORD0322,Fast Food,7.68,8,3,Rainy,1,2,21,Bike,3.2,0,0,36.54,Thursday,Morning
+ORD0323,Fast Food,10.48,15,3,Clear,2,7,20,Bike,4.6,0,0,33.49,Thursday,Afternoon
+ORD0324,Italian,6.8,9,1,Foggy,4,6,39,Car,3.3,0,0,70.27,Tuesday,Morning
+ORD0325,Chinese,4.07,14,2,Rainy,3,3,23,Bike,3.9,1,0,48.13,Wednesday,Afternoon
+ORD0326,Chinese,12.38,16,2,Foggy,2,6,34,Scooter,3.4,0,0,72.8,Wednesday,Afternoon
+ORD0327,Dessert,12.09,16,3,Clear,3,2,17,Bike,4.4,0,0,42.78,Thursday,Afternoon
+ORD0328,Dessert,10.57,15,3,Cloudy,1,2,16,Car,4.8,0,0,23.02,Thursday,Afternoon
+ORD0329,Dessert,4.45,18,6,Rainy,5,2,20,Scooter,3.6,0,1,49.89,Sunday,Evening
+ORD0330,Dessert,9.06,21,0,Cloudy,5,4,24,Bike,3.2,1,0,66.15,Monday,Night
+ORD0331,Dessert,5.73,19,6,Clear,3,3,23,Bike,3.6,1,1,38.1,Sunday,Evening
+ORD0332,Dessert,1.83,17,6,Rainy,5,7,24,Bike,4.3,0,1,45.56,Sunday,Evening
+ORD0333,Cafe,13.8,16,2,Clear,2,2,22,Bike,3.7,0,0,51.67,Wednesday,Afternoon
+ORD0334,Chinese,2.48,9,1,Cloudy,3,2,19,Bike,3.6,0,0,23.79,Tuesday,Morning
+ORD0335,Dessert,14.28,13,2,Clear,4,7,31,Bike,3.4,1,0,90.91,Wednesday,Afternoon
+ORD0336,Chinese,6.97,11,0,Cloudy,2,6,28,Bike,4.0,0,0,39.64,Monday,Morning
+ORD0337,Chinese,3.18,21,5,Clear,2,6,30,Bike,3.6,1,1,34.63,Saturday,Night
+ORD0338,Indian,8.36,11,3,Cloudy,2,2,26,Bike,4.5,0,0,32.26,Thursday,Morning
+ORD0339,Cafe,13.16,12,3,Cloudy,4,1,12,Bike,3.2,1,0,61.16,Thursday,Afternoon
+ORD0340,Dessert,11.12,19,0,Cloudy,1,4,19,Bike,4.3,1,0,37.51,Monday,Evening
+ORD0341,Fast Food,12.2,10,6,Rainy,5,6,23,Car,3.5,0,1,69.04,Sunday,Morning
+ORD0342,Italian,10.05,21,1,Clear,3,1,28,Bike,4.0,1,0,59.08,Tuesday,Night
+ORD0343,Fast Food,10.54,8,3,Foggy,1,4,17,Scooter,3.6,0,0,38.85,Thursday,Morning
+ORD0344,Cafe,12.81,15,4,Clear,3,2,19,Bike,4.4,0,0,43.03,Friday,Afternoon
+ORD0345,Italian,4.12,12,6,Rainy,5,3,41,Bike,4.9,1,1,69.89,Sunday,Afternoon
+ORD0346,Cafe,7.6,10,3,Rainy,4,5,26,Bike,4.8,0,0,48.09,Thursday,Morning
+ORD0347,Chinese,3.71,17,4,Cloudy,2,5,25,Bike,4.2,0,0,24.39,Friday,Evening
+ORD0348,Italian,14.82,21,0,Clear,2,2,35,Scooter,3.9,1,0,78.94,Monday,Night
+ORD0349,Chinese,14.19,14,0,Rainy,4,6,30,Scooter,4.6,1,0,103.03,Monday,Afternoon
+ORD0350,Fast Food,1.07,14,6,Cloudy,1,1,14,Bike,4.4,1,1,15.0,Sunday,Afternoon
+ORD0351,Fast Food,10.73,8,3,Clear,1,3,23,Car,3.4,0,0,35.22,Thursday,Morning
+ORD0352,Italian,13.92,19,2,Foggy,3,7,42,Bike,4.6,1,0,94.82,Wednesday,Evening
+ORD0353,Italian,3.12,16,4,Clear,4,4,38,Car,3.9,0,0,47.46,Friday,Afternoon
+ORD0354,Dessert,8.74,22,1,Clear,1,2,19,Car,3.4,0,0,33.13,Tuesday,Night
+ORD0355,Cafe,13.77,9,3,Clear,4,3,20,Bike,3.6,0,0,61.15,Thursday,Morning
+ORD0356,Dessert,0.99,12,1,Clear,5,3,24,Bike,3.5,1,0,36.52,Tuesday,Afternoon
+ORD0357,Cafe,10.61,20,3,Foggy,2,6,25,Bike,4.0,1,0,60.39,Thursday,Evening
+ORD0358,Dessert,4.81,21,2,Clear,2,4,22,Scooter,3.5,1,0,37.43,Wednesday,Night
+ORD0359,Chinese,13.9,12,2,Clear,2,3,33,Bike,3.2,1,0,74.62,Wednesday,Afternoon
+ORD0360,Italian,14.58,21,6,Clear,4,6,45,Car,3.2,1,1,95.34,Sunday,Night
+ORD0361,Fast Food,14.19,15,6,Rainy,4,1,10,Scooter,4.2,0,1,61.65,Sunday,Afternoon
+ORD0362,Cafe,7.38,21,2,Rainy,3,6,24,Bike,4.5,1,0,59.1,Wednesday,Night
+ORD0363,Cafe,13.0,15,5,Clear,2,1,19,Bike,3.6,0,1,41.54,Saturday,Afternoon
+ORD0364,Fast Food,12.75,21,2,Clear,3,1,11,Scooter,3.1,1,0,58.71,Wednesday,Night
+ORD0365,Dessert,5.13,14,0,Cloudy,2,7,22,Bike,3.3,1,0,34.96,Monday,Afternoon
+ORD0366,Cafe,12.52,14,0,Clear,3,7,33,Scooter,4.8,1,0,66.24,Monday,Afternoon
+ORD0367,Chinese,1.04,19,5,Clear,3,3,29,Bike,4.0,1,1,29.67,Saturday,Evening
+ORD0368,Italian,9.15,18,4,Clear,5,6,39,Bike,3.9,0,0,67.82,Friday,Evening
+ORD0369,Fast Food,3.84,13,1,Cloudy,3,7,30,Bike,3.1,1,0,49.45,Tuesday,Afternoon
+ORD0370,Italian,2.25,13,3,Clear,4,1,28,Scooter,4.5,1,0,39.49,Thursday,Afternoon
+ORD0371,Cafe,1.62,18,3,Rainy,3,7,24,Bike,4.1,0,0,31.21,Thursday,Evening
+ORD0372,Cafe,10.6,16,5,Clear,2,4,25,Scooter,3.4,0,1,51.65,Saturday,Afternoon
+ORD0373,Fast Food,5.43,13,0,Foggy,3,3,21,Bike,3.2,1,0,43.66,Monday,Afternoon
+ORD0374,Chinese,11.01,19,6,Clear,1,6,29,Scooter,3.8,1,1,51.83,Sunday,Evening
+ORD0375,Indian,1.45,20,3,Cloudy,2,6,38,Bike,4.7,1,0,35.63,Thursday,Evening
+ORD0376,Fast Food,5.07,20,0,Clear,1,5,15,Bike,4.7,1,0,17.63,Monday,Evening
+ORD0377,Indian,8.32,9,4,Clear,2,6,32,Scooter,4.2,0,0,45.64,Friday,Morning
+ORD0378,Dessert,11.97,9,1,Cloudy,4,3,24,Bike,4.5,0,0,49.04,Tuesday,Morning
+ORD0379,Indian,5.12,20,4,Clear,4,4,36,Bike,3.2,1,0,69.28,Friday,Evening
+ORD0380,Chinese,9.58,12,5,Cloudy,4,6,38,Bike,4.2,1,1,71.16,Saturday,Afternoon
+ORD0381,Dessert,13.35,22,2,Foggy,1,5,24,Scooter,4.3,0,0,57.21,Wednesday,Night
+ORD0382,Indian,9.43,11,2,Cloudy,5,3,37,Car,3.4,0,0,66.48,Wednesday,Morning
+ORD0383,Dessert,3.88,18,2,Clear,2,1,21,Bike,4.8,0,0,25.8,Wednesday,Evening
+ORD0384,Indian,0.85,9,4,Cloudy,4,2,26,Bike,3.4,0,0,27.4,Friday,Morning
+ORD0385,Chinese,13.12,22,3,Clear,2,2,24,Scooter,3.6,0,0,53.59,Thursday,Night
+ORD0386,Indian,0.81,22,1,Cloudy,1,1,32,Bike,4.2,0,0,21.69,Tuesday,Night
+ORD0387,Indian,13.18,10,2,Rainy,5,7,36,Car,4.3,0,0,88.71,Wednesday,Morning
+ORD0388,Indian,8.17,14,5,Cloudy,1,6,44,Bike,4.4,1,1,49.59,Saturday,Afternoon
+ORD0389,Fast Food,14.12,15,5,Clear,2,2,20,Car,3.2,0,1,38.41,Saturday,Afternoon
+ORD0390,Fast Food,12.08,19,2,Rainy,5,7,22,Scooter,4.7,1,0,93.56,Wednesday,Evening
+ORD0391,Fast Food,14.97,20,2,Clear,5,2,9,Scooter,4.1,1,0,70.28,Wednesday,Evening
+ORD0392,Chinese,5.59,13,1,Cloudy,1,1,21,Scooter,3.9,1,0,29.73,Tuesday,Afternoon
+ORD0393,Dessert,11.62,18,2,Clear,4,6,19,Bike,5.0,0,0,40.76,Wednesday,Evening
+ORD0394,Cafe,6.33,12,1,Rainy,2,6,34,Bike,4.5,1,0,52.93,Tuesday,Afternoon
+ORD0395,Indian,7.46,20,5,Cloudy,3,7,34,Bike,3.2,1,1,62.79,Saturday,Evening
+ORD0396,Indian,9.6,8,2,Rainy,3,1,31,Scooter,4.5,0,0,65.52,Wednesday,Morning
+ORD0397,Chinese,13.17,15,4,Clear,1,7,39,Scooter,3.2,0,0,61.14,Friday,Afternoon
+ORD0398,Indian,14.77,10,6,Rainy,2,6,42,Scooter,3.1,0,1,96.58,Sunday,Morning
+ORD0399,Fast Food,11.64,22,4,Clear,2,6,23,Bike,3.8,0,0,47.12,Friday,Night
+ORD0400,Cafe,6.56,13,5,Clear,1,3,27,Bike,5.0,1,1,33.79,Saturday,Afternoon
+ORD0401,Italian,6.61,10,1,Clear,2,7,44,Bike,3.3,0,0,57.06,Tuesday,Morning
+ORD0402,Indian,11.19,14,4,Clear,4,3,27,Scooter,4.3,1,0,70.36,Friday,Afternoon
+ORD0403,Fast Food,3.96,20,1,Clear,1,1,17,Bike,3.3,1,0,21.14,Tuesday,Evening
+ORD0404,Italian,2.1,21,4,Cloudy,4,4,44,Bike,4.4,1,0,56.27,Friday,Night
+ORD0405,Cafe,5.64,14,4,Clear,2,2,15,Scooter,4.0,1,0,31.78,Friday,Afternoon
+ORD0406,Italian,4.66,19,1,Clear,1,3,41,Bike,4.4,1,0,43.77,Tuesday,Evening
+ORD0407,Fast Food,4.8,22,3,Foggy,2,2,15,Bike,3.4,0,0,28.75,Thursday,Night
+ORD0408,Dessert,3.89,16,4,Clear,1,5,17,Bike,4.5,0,0,15.0,Friday,Afternoon
+ORD0409,Dessert,1.11,12,2,Rainy,2,1,21,Scooter,5.0,1,0,24.58,Wednesday,Afternoon
+ORD0410,Italian,0.76,22,6,Cloudy,4,4,34,Bike,4.3,0,1,31.18,Sunday,Night
+ORD0411,Chinese,14.82,15,5,Foggy,4,5,36,Scooter,4.0,0,1,94.72,Saturday,Afternoon
+ORD0412,Italian,6.7,17,3,Cloudy,2,5,42,Bike,4.8,0,0,43.1,Thursday,Evening
+ORD0413,Indian,6.07,17,1,Cloudy,1,6,37,Scooter,3.0,0,0,46.25,Tuesday,Evening
+ORD0414,Indian,10.35,15,3,Cloudy,3,5,31,Bike,4.5,0,0,48.09,Thursday,Afternoon
+ORD0415,Dessert,3.66,8,0,Clear,4,1,15,Bike,4.8,0,0,15.2,Monday,Morning
+ORD0416,Chinese,14.27,19,0,Cloudy,4,3,24,Scooter,3.1,1,0,86.66,Monday,Evening
+ORD0417,Fast Food,11.9,12,4,Clear,3,1,8,Scooter,3.9,1,0,47.98,Friday,Afternoon
+ORD0418,Indian,1.8,10,4,Foggy,2,3,37,Bike,3.4,0,0,43.63,Friday,Morning
+ORD0419,Dessert,6.55,8,2,Clear,1,5,22,Scooter,4.1,0,0,32.5,Wednesday,Morning
+ORD0420,Cafe,13.25,11,6,Rainy,2,5,30,Bike,4.3,0,1,59.04,Sunday,Morning
+ORD0421,Dessert,14.2,15,5,Clear,5,4,23,Car,3.6,0,1,54.89,Saturday,Afternoon
+ORD0422,Indian,7.28,10,3,Cloudy,4,3,36,Scooter,3.9,0,0,61.53,Thursday,Morning
+ORD0423,Indian,9.39,17,0,Clear,5,5,38,Bike,3.6,0,0,71.62,Monday,Evening
+ORD0424,Dessert,2.92,9,4,Cloudy,4,6,26,Scooter,3.7,0,0,35.59,Friday,Morning
+ORD0425,Fast Food,14.87,18,5,Cloudy,4,2,11,Bike,3.3,0,1,44.68,Saturday,Evening
+ORD0426,Italian,3.86,16,3,Clear,5,4,35,Bike,4.8,0,0,44.17,Thursday,Afternoon
+ORD0427,Indian,14.17,17,4,Cloudy,5,1,23,Car,3.0,0,0,66.4,Friday,Evening
+ORD0428,Dessert,9.92,12,4,Cloudy,2,4,19,Scooter,4.8,1,0,38.73,Friday,Afternoon
+ORD0429,Dessert,9.31,21,0,Rainy,5,2,22,Bike,4.1,1,0,78.6,Monday,Night
+ORD0430,Chinese,7.93,14,0,Clear,2,3,24,Bike,3.7,1,0,45.31,Monday,Afternoon
+ORD0431,Italian,3.84,18,4,Clear,2,1,33,Bike,4.4,0,0,32.19,Friday,Evening
+ORD0432,Cafe,3.06,18,1,Clear,2,1,15,Car,4.0,0,0,17.04,Tuesday,Evening
+ORD0433,Fast Food,3.7,9,4,Clear,4,3,19,Bike,4.0,0,0,31.14,Friday,Morning
+ORD0434,Cafe,3.2,16,5,Foggy,4,7,35,Bike,3.2,0,1,56.13,Saturday,Afternoon
+ORD0435,Italian,11.8,20,4,Clear,5,7,50,Bike,3.8,1,0,106.16,Friday,Evening
+ORD0436,Italian,5.58,16,2,Cloudy,4,4,34,Bike,3.5,0,0,50.95,Wednesday,Afternoon
+ORD0437,Italian,1.34,11,6,Clear,5,5,45,Bike,3.0,0,1,60.3,Sunday,Morning
+ORD0438,Cafe,14.55,11,2,Rainy,4,7,29,Bike,3.7,0,0,81.86,Wednesday,Morning
+ORD0439,Italian,13.31,13,2,Cloudy,1,4,39,Bike,3.2,1,0,63.61,Wednesday,Afternoon
+ORD0440,Dessert,13.95,17,1,Cloudy,1,7,24,Bike,3.5,0,0,45.16,Tuesday,Evening
+ORD0441,Cafe,14.93,17,1,Clear,5,2,26,Car,3.2,0,0,73.34,Tuesday,Evening
+ORD0442,Italian,3.02,17,4,Clear,4,6,42,Bike,3.2,0,0,58.76,Friday,Evening
+ORD0443,Dessert,6.25,13,2,Clear,4,5,23,Scooter,3.4,1,0,57.89,Wednesday,Afternoon
+ORD0444,Chinese,11.49,19,1,Clear,2,4,26,Scooter,5.0,1,0,50.46,Tuesday,Evening
+ORD0445,Italian,10.59,8,0,Clear,3,6,44,Scooter,3.0,0,0,75.71,Monday,Morning
+ORD0446,Cafe,2.73,21,4,Clear,5,6,30,Scooter,4.3,1,0,48.54,Friday,Night
+ORD0447,Indian,12.33,21,5,Clear,3,7,34,Bike,3.3,1,1,66.59,Saturday,Night
+ORD0448,Italian,3.75,16,6,Cloudy,3,3,37,Bike,4.8,0,1,39.12,Sunday,Afternoon
+ORD0449,Indian,3.75,9,3,Clear,5,2,32,Bike,3.2,0,0,48.72,Thursday,Morning
+ORD0450,Dessert,8.29,12,4,Clear,4,2,22,Bike,4.9,1,0,42.87,Friday,Afternoon
+ORD0451,Chinese,9.1,16,3,Clear,5,2,28,Scooter,4.2,0,0,63.34,Thursday,Afternoon
+ORD0452,Fast Food,8.91,11,2,Cloudy,3,5,19,Scooter,3.0,0,0,42.72,Wednesday,Morning
+ORD0453,Chinese,1.83,18,6,Cloudy,4,1,28,Scooter,4.8,0,1,25.03,Sunday,Evening
+ORD0454,Italian,13.22,10,3,Rainy,1,5,36,Bike,4.0,0,0,62.44,Thursday,Morning
+ORD0455,Indian,4.35,22,2,Cloudy,5,4,37,Car,3.5,0,0,56.4,Wednesday,Night
+ORD0456,Indian,2.38,14,0,Clear,5,6,37,Bike,4.5,1,0,53.09,Monday,Afternoon
+ORD0457,Cafe,13.39,13,3,Rainy,4,6,33,Bike,4.9,1,0,89.76,Thursday,Afternoon
+ORD0458,Indian,14.36,15,6,Clear,1,1,33,Bike,4.0,0,1,48.67,Sunday,Afternoon
+ORD0459,Cafe,13.0,10,4,Clear,1,4,24,Scooter,3.6,0,0,48.53,Friday,Morning
+ORD0460,Dessert,12.24,12,2,Cloudy,4,1,10,Bike,4.6,1,0,45.35,Wednesday,Afternoon
+ORD0461,Fast Food,10.0,17,4,Cloudy,2,6,18,Car,4.4,0,0,31.17,Friday,Evening
+ORD0462,Italian,8.49,11,6,Clear,5,7,48,Car,4.8,0,1,60.34,Sunday,Morning
+ORD0463,Cafe,1.76,22,1,Rainy,5,5,31,Scooter,4.4,0,0,56.32,Tuesday,Night
+ORD0464,Fast Food,6.42,20,2,Rainy,3,2,18,Bike,3.5,1,0,43.89,Wednesday,Evening
+ORD0465,Indian,5.9,11,3,Clear,4,6,32,Scooter,4.9,0,0,48.33,Thursday,Morning
+ORD0466,Indian,4.27,11,2,Clear,3,3,29,Scooter,3.2,0,0,45.1,Wednesday,Morning
+ORD0467,Fast Food,10.99,17,4,Clear,3,2,15,Bike,3.5,0,0,41.09,Friday,Evening
+ORD0468,Indian,7.69,15,0,Clear,1,6,40,Bike,4.0,0,0,41.16,Monday,Afternoon
+ORD0469,Dessert,1.68,13,2,Clear,5,5,19,Bike,4.1,1,0,30.05,Wednesday,Afternoon
+ORD0470,Dessert,3.69,10,3,Clear,3,1,20,Bike,3.0,0,0,33.32,Thursday,Morning
+ORD0471,Fast Food,10.41,17,1,Clear,1,7,29,Bike,4.6,0,0,34.43,Tuesday,Evening
+ORD0472,Cafe,1.6,12,5,Cloudy,4,7,30,Car,3.7,1,1,37.88,Saturday,Afternoon
+ORD0473,Cafe,12.84,13,0,Rainy,3,2,20,Bike,3.8,1,0,76.91,Monday,Afternoon
+ORD0474,Fast Food,7.68,12,1,Foggy,5,5,21,Bike,4.6,1,0,62.9,Tuesday,Afternoon
+ORD0475,Cafe,7.47,13,2,Clear,3,7,25,Car,3.8,1,0,39.08,Wednesday,Afternoon
+ORD0476,Cafe,9.09,15,4,Cloudy,4,7,29,Bike,3.1,0,0,65.28,Friday,Afternoon
+ORD0477,Dessert,12.46,14,6,Cloudy,3,4,16,Scooter,3.4,1,1,57.01,Sunday,Afternoon
+ORD0478,Cafe,5.54,12,4,Rainy,5,3,21,Bike,4.9,1,0,49.34,Friday,Afternoon
+ORD0479,Chinese,10.33,17,3,Clear,1,2,31,Bike,3.1,0,0,40.34,Thursday,Evening
+ORD0480,Italian,8.7,13,4,Cloudy,5,1,36,Bike,3.7,1,0,79.73,Friday,Afternoon
+ORD0481,Indian,4.37,21,0,Clear,1,7,36,Bike,4.0,1,0,35.21,Monday,Night
+ORD0482,Chinese,13.24,11,4,Clear,2,4,24,Bike,4.0,0,0,41.42,Friday,Morning
+ORD0483,Cafe,12.06,19,3,Rainy,5,5,31,Scooter,3.0,1,0,132.08,Thursday,Evening
+ORD0484,Dessert,10.05,16,5,Rainy,5,7,26,Bike,4.0,0,1,69.74,Saturday,Afternoon
+ORD0485,Fast Food,12.83,20,2,Clear,4,3,12,Scooter,3.8,1,0,63.96,Wednesday,Evening
+ORD0486,Cafe,13.08,11,6,Foggy,3,1,16,Bike,4.9,0,1,46.57,Sunday,Morning
+ORD0487,Dessert,10.77,8,2,Rainy,1,5,18,Bike,3.3,0,0,47.55,Wednesday,Morning
+ORD0488,Italian,12.64,14,4,Clear,1,5,37,Scooter,3.7,1,0,68.7,Friday,Afternoon
+ORD0489,Cafe,10.61,14,1,Foggy,4,2,16,Bike,3.8,1,0,61.55,Tuesday,Afternoon
+ORD0490,Fast Food,10.36,11,2,Clear,4,7,24,Scooter,3.8,0,0,51.98,Wednesday,Morning
+ORD0491,Dessert,9.47,20,5,Foggy,3,2,16,Car,4.3,1,1,36.04,Saturday,Evening
+ORD0492,Dessert,11.41,21,4,Rainy,3,1,18,Scooter,3.4,1,0,83.55,Friday,Night
+ORD0493,Dessert,2.8,10,6,Clear,5,7,23,Bike,3.4,0,1,36.86,Sunday,Morning
+ORD0494,Italian,13.27,15,3,Cloudy,2,6,39,Bike,4.5,0,0,51.11,Thursday,Afternoon
+ORD0495,Cafe,13.14,12,5,Rainy,3,7,36,Scooter,4.0,1,1,97.39,Saturday,Afternoon
+ORD0496,Italian,0.92,17,4,Cloudy,4,6,48,Scooter,3.8,0,0,49.85,Friday,Evening
+ORD0497,Indian,12.47,14,5,Foggy,3,5,42,Bike,3.3,1,1,99.02,Saturday,Afternoon
+ORD0498,Indian,2.37,11,2,Cloudy,1,2,24,Bike,3.4,0,0,23.09,Wednesday,Morning
+ORD0499,Cafe,5.36,11,6,Rainy,2,3,22,Bike,3.0,0,1,42.74,Sunday,Morning
+ORD0500,Italian,11.28,15,3,Cloudy,5,7,51,Bike,3.2,0,0,96.08,Thursday,Afternoon
+ORD0501,Fast Food,2.83,21,4,Rainy,1,3,18,Bike,4.1,1,0,25.95,Friday,Night
+ORD0502,Dessert,12.36,15,0,Clear,1,7,22,Bike,4.8,0,0,35.41,Monday,Afternoon
+ORD0503,Dessert,12.57,9,3,Cloudy,2,5,20,Scooter,3.6,0,0,42.74,Thursday,Morning
+ORD0504,Cafe,7.86,21,0,Clear,5,2,23,Car,3.7,1,0,55.22,Monday,Night
+ORD0505,Indian,0.59,9,5,Cloudy,4,1,28,Scooter,3.2,0,1,30.98,Saturday,Morning
+ORD0506,Indian,4.66,10,1,Cloudy,5,1,29,Bike,3.8,0,0,48.43,Tuesday,Morning
+ORD0507,Dessert,9.45,22,3,Cloudy,3,1,9,Bike,3.1,0,0,34.07,Thursday,Night
+ORD0508,Cafe,14.73,19,5,Rainy,1,7,27,Car,4.8,1,1,49.79,Saturday,Evening
+ORD0509,Italian,9.66,19,0,Cloudy,3,7,44,Car,4.3,1,0,64.66,Monday,Evening
+ORD0510,Indian,4.27,10,2,Clear,4,3,28,Car,5.0,0,0,24.88,Wednesday,Morning
+ORD0511,Italian,9.69,8,2,Cloudy,3,2,33,Scooter,4.8,0,0,52.28,Wednesday,Morning
+ORD0512,Indian,8.33,22,1,Clear,5,7,43,Bike,3.9,0,0,72.28,Tuesday,Night
+ORD0513,Indian,11.81,21,3,Clear,3,2,32,Scooter,4.0,1,0,77.83,Thursday,Night
+ORD0514,Chinese,2.05,10,3,Clear,4,3,31,Bike,3.4,0,0,38.39,Thursday,Morning
+ORD0515,Indian,11.53,13,3,Rainy,4,7,46,Bike,3.9,1,0,121.06,Thursday,Afternoon
+ORD0516,Fast Food,8.35,15,5,Rainy,4,1,9,Scooter,4.8,0,1,34.59,Saturday,Afternoon
+ORD0517,Cafe,14.46,20,6,Cloudy,5,1,16,Bike,3.1,1,1,64.95,Sunday,Evening
+ORD0518,Cafe,5.46,19,6,Clear,4,5,27,Bike,4.7,1,1,41.48,Sunday,Evening
+ORD0519,Italian,9.67,21,1,Clear,1,6,42,Bike,3.7,1,0,55.42,Tuesday,Night
+ORD0520,Indian,14.01,17,3,Clear,4,4,31,Bike,4.8,0,0,54.94,Thursday,Evening
+ORD0521,Fast Food,1.99,13,5,Clear,3,6,24,Scooter,4.9,1,1,29.79,Saturday,Afternoon
+ORD0522,Italian,14.09,12,2,Rainy,3,7,49,Bike,4.3,1,0,116.15,Wednesday,Afternoon
+ORD0523,Chinese,10.47,22,0,Clear,3,2,21,Bike,4.3,0,0,40.49,Monday,Night
+ORD0524,Italian,1.48,11,5,Clear,5,7,41,Bike,3.9,0,1,47.53,Saturday,Morning
+ORD0525,Italian,4.86,10,6,Clear,3,2,32,Bike,4.7,0,1,34.16,Sunday,Morning
+ORD0526,Indian,10.77,20,6,Clear,5,2,32,Bike,4.9,1,1,62.41,Sunday,Evening
+ORD0527,Chinese,1.48,11,2,Clear,5,6,31,Scooter,4.6,0,0,37.98,Wednesday,Morning
+ORD0528,Italian,8.94,21,2,Clear,4,4,40,Bike,4.2,1,0,68.1,Wednesday,Night
+ORD0529,Fast Food,5.52,14,0,Cloudy,1,5,20,Scooter,4.2,1,0,26.61,Monday,Afternoon
+ORD0530,Fast Food,9.5,8,2,Cloudy,4,6,19,Car,4.7,0,0,32.34,Wednesday,Morning
+ORD0531,Cafe,1.16,14,1,Rainy,4,4,25,Scooter,4.1,1,0,46.08,Tuesday,Afternoon
+ORD0532,Chinese,13.14,8,0,Foggy,5,1,28,Bike,4.6,0,0,72.25,Monday,Morning
+ORD0533,Chinese,14.62,9,2,Clear,5,1,25,Bike,4.0,0,0,71.38,Wednesday,Morning
+ORD0534,Cafe,14.55,22,4,Rainy,3,2,21,Scooter,3.1,0,0,88.72,Friday,Night
+ORD0535,Italian,11.37,11,5,Foggy,3,3,43,Bike,3.8,0,1,72.6,Saturday,Morning
+ORD0536,Chinese,2.39,8,2,Clear,4,7,32,Scooter,3.9,0,0,42.23,Wednesday,Morning
+ORD0537,Fast Food,11.49,18,1,Foggy,2,7,31,Scooter,3.3,0,0,68.34,Tuesday,Evening
+ORD0538,Fast Food,0.86,19,3,Clear,2,2,19,Car,3.2,1,0,23.72,Thursday,Evening
+ORD0539,Indian,0.82,18,2,Clear,3,3,31,Car,4.1,0,0,31.83,Wednesday,Evening
+ORD0540,Chinese,5.19,22,6,Clear,2,4,23,Bike,3.2,0,1,33.56,Sunday,Night
+ORD0541,Italian,7.59,18,6,Cloudy,3,1,30,Bike,3.6,0,1,44.67,Sunday,Evening
+ORD0542,Cafe,11.67,16,6,Rainy,5,7,31,Car,4.5,0,1,74.59,Sunday,Afternoon
+ORD0543,Cafe,10.41,19,3,Cloudy,4,6,22,Bike,4.9,1,0,51.19,Thursday,Evening
+ORD0544,Italian,6.97,13,6,Clear,1,3,33,Bike,4.4,1,1,37.82,Sunday,Afternoon
+ORD0545,Dessert,4.47,20,4,Clear,4,4,15,Scooter,5.0,1,0,28.75,Friday,Evening
+ORD0546,Indian,14.96,8,2,Clear,3,1,30,Bike,4.4,0,0,54.65,Wednesday,Morning
+ORD0547,Cafe,6.68,8,6,Clear,3,6,23,Scooter,3.6,0,1,40.59,Sunday,Morning
+ORD0548,Chinese,7.05,13,0,Foggy,4,3,29,Scooter,4.3,1,0,70.46,Monday,Afternoon
+ORD0549,Indian,2.87,11,3,Clear,3,2,36,Bike,4.4,0,0,37.58,Thursday,Morning
+ORD0550,Chinese,12.02,11,4,Cloudy,2,2,22,Car,3.7,0,0,40.09,Friday,Morning
+ORD0551,Fast Food,10.56,22,0,Cloudy,2,2,10,Scooter,3.0,0,0,39.12,Monday,Night
+ORD0552,Indian,3.7,18,0,Clear,3,7,37,Scooter,4.4,0,0,47.31,Monday,Evening
+ORD0553,Cafe,1.69,22,0,Rainy,3,4,29,Bike,3.0,0,0,43.11,Monday,Night
+ORD0554,Indian,10.37,13,0,Clear,2,2,34,Bike,4.3,1,0,55.74,Monday,Afternoon
+ORD0555,Indian,9.99,22,2,Clear,3,7,44,Scooter,3.3,0,0,73.36,Wednesday,Night
+ORD0556,Indian,4.46,21,6,Clear,3,5,39,Bike,4.1,1,1,43.44,Sunday,Night
+ORD0557,Dessert,14.29,19,5,Rainy,4,7,26,Bike,4.0,1,1,90.12,Saturday,Evening
+ORD0558,Indian,2.69,18,2,Clear,1,1,32,Scooter,3.0,0,0,29.25,Wednesday,Evening
+ORD0559,Chinese,6.77,14,2,Rainy,2,7,35,Bike,3.7,1,0,66.91,Wednesday,Afternoon
+ORD0560,Fast Food,14.18,16,4,Rainy,4,4,15,Bike,4.2,0,0,62.77,Friday,Afternoon
+ORD0561,Italian,6.59,17,4,Clear,1,6,39,Bike,4.7,0,0,35.69,Friday,Evening
+ORD0562,Indian,9.76,12,6,Rainy,3,7,45,Bike,4.8,1,1,80.14,Sunday,Afternoon
+ORD0563,Cafe,6.27,16,5,Cloudy,3,2,23,Scooter,4.0,0,1,34.93,Saturday,Afternoon
+ORD0564,Indian,4.48,11,4,Clear,4,1,33,Bike,4.5,0,0,43.34,Friday,Morning
+ORD0565,Cafe,14.77,20,6,Clear,3,3,23,Bike,3.6,1,1,61.67,Sunday,Evening
+ORD0566,Chinese,6.44,17,6,Cloudy,5,2,23,Scooter,3.7,0,1,41.44,Sunday,Evening
+ORD0567,Cafe,13.46,9,1,Clear,4,1,15,Car,3.4,0,0,46.67,Tuesday,Morning
+ORD0568,Italian,3.83,10,5,Rainy,1,5,41,Scooter,4.1,0,1,47.94,Saturday,Morning
+ORD0569,Fast Food,3.59,20,4,Clear,4,3,17,Bike,3.6,1,0,35.05,Friday,Evening
+ORD0570,Cafe,0.95,18,5,Clear,2,5,32,Bike,3.2,0,1,29.74,Saturday,Evening
+ORD0571,Cafe,9.95,8,2,Clear,4,6,30,Scooter,4.4,0,0,61.03,Wednesday,Morning
+ORD0572,Fast Food,5.84,21,2,Clear,3,1,15,Bike,4.4,1,0,33.12,Wednesday,Night
+ORD0573,Italian,13.03,21,5,Rainy,3,5,39,Scooter,3.7,1,1,108.83,Saturday,Night
+ORD0574,Indian,7.36,13,1,Clear,5,6,44,Bike,3.2,1,0,93.09,Tuesday,Afternoon
+ORD0575,Cafe,14.54,20,1,Cloudy,5,1,23,Bike,3.9,1,0,79.8,Tuesday,Evening
+ORD0576,Fast Food,3.19,13,5,Cloudy,5,1,19,Scooter,3.9,1,1,36.74,Saturday,Afternoon
+ORD0577,Chinese,13.1,8,4,Rainy,1,5,32,Scooter,4.3,0,0,65.51,Friday,Morning
+ORD0578,Fast Food,11.76,18,3,Cloudy,5,1,16,Scooter,3.6,0,0,60.26,Thursday,Evening
+ORD0579,Chinese,11.68,20,1,Clear,1,2,19,Bike,4.4,1,0,35.75,Tuesday,Evening
+ORD0580,Italian,12.75,10,0,Clear,5,1,35,Bike,4.7,0,0,58.35,Monday,Morning
+ORD0581,Indian,11.53,12,2,Cloudy,1,4,35,Bike,3.5,1,0,54.01,Wednesday,Afternoon
+ORD0582,Fast Food,9.58,10,5,Clear,4,6,22,Bike,5.0,0,1,33.24,Saturday,Morning
+ORD0583,Dessert,2.4,17,0,Rainy,4,1,21,Bike,3.8,0,0,36.2,Monday,Evening
+ORD0584,Cafe,0.97,10,5,Clear,3,4,20,Bike,3.5,0,1,16.92,Saturday,Morning
+ORD0585,Italian,13.85,21,6,Rainy,1,1,29,Bike,3.8,1,1,68.24,Sunday,Night
+ORD0586,Fast Food,9.44,17,2,Cloudy,2,1,14,Car,3.2,0,0,32.82,Wednesday,Evening
+ORD0587,Cafe,12.05,10,2,Cloudy,3,5,24,Scooter,3.3,0,0,60.12,Wednesday,Morning
+ORD0588,Fast Food,7.48,12,1,Cloudy,4,2,18,Car,3.8,1,0,38.34,Tuesday,Afternoon
+ORD0589,Chinese,2.2,20,1,Cloudy,1,6,37,Bike,4.5,1,0,33.84,Tuesday,Evening
+ORD0590,Fast Food,2.32,12,0,Rainy,5,2,15,Car,4.8,1,0,36.07,Monday,Afternoon
+ORD0591,Dessert,10.44,11,6,Rainy,2,3,17,Bike,4.3,0,1,44.77,Sunday,Morning
+ORD0592,Fast Food,6.74,8,5,Clear,4,5,22,Bike,3.2,0,1,36.8,Saturday,Morning
+ORD0593,Fast Food,3.41,12,6,Clear,3,5,24,Scooter,4.3,1,1,29.66,Sunday,Afternoon
+ORD0594,Dessert,7.63,17,2,Clear,1,2,20,Bike,4.3,0,0,20.57,Wednesday,Evening
+ORD0595,Italian,1.43,12,0,Foggy,2,7,42,Bike,4.6,1,0,44.74,Monday,Afternoon
+ORD0596,Fast Food,8.94,11,3,Clear,1,5,16,Bike,4.7,0,0,24.35,Thursday,Morning
+ORD0597,Dessert,4.4,13,0,Rainy,5,2,13,Bike,4.7,1,0,35.38,Monday,Afternoon
+ORD0598,Cafe,12.06,17,4,Rainy,3,5,27,Scooter,3.8,0,0,74.36,Friday,Evening
+ORD0599,Chinese,5.0,11,0,Rainy,1,1,27,Scooter,4.4,0,0,39.15,Monday,Morning
+ORD0600,Chinese,7.1,21,6,Cloudy,4,2,31,Scooter,3.5,1,1,66.43,Sunday,Night
+ORD0601,Fast Food,0.67,14,4,Clear,3,2,15,Bike,5.0,1,0,15.0,Friday,Afternoon
+ORD0602,Italian,1.55,14,4,Rainy,4,4,45,Scooter,3.4,1,0,88.3,Friday,Afternoon
+ORD0603,Italian,6.19,9,4,Cloudy,1,5,36,Bike,3.0,0,0,42.2,Friday,Morning
+ORD0604,Cafe,7.46,10,3,Clear,3,5,25,Bike,3.3,0,0,44.53,Thursday,Morning
+ORD0605,Fast Food,9.2,8,0,Clear,4,2,17,Car,4.6,0,0,31.14,Monday,Morning
+ORD0606,Chinese,4.73,15,6,Rainy,5,1,20,Bike,3.9,0,1,43.42,Sunday,Afternoon
+ORD0607,Italian,10.58,16,0,Cloudy,5,1,35,Scooter,3.9,0,0,69.9,Monday,Afternoon
+ORD0608,Fast Food,12.97,11,3,Clear,1,6,18,Bike,4.9,0,0,32.57,Thursday,Morning
+ORD0609,Italian,11.81,13,2,Cloudy,3,1,28,Scooter,4.8,1,0,58.35,Wednesday,Afternoon
+ORD0610,Dessert,1.07,16,1,Cloudy,2,5,25,Scooter,3.6,0,0,21.39,Tuesday,Afternoon
+ORD0611,Italian,7.47,13,6,Clear,3,7,50,Bike,3.4,1,1,73.86,Sunday,Afternoon
+ORD0612,Chinese,2.02,21,6,Foggy,5,4,29,Bike,4.7,1,1,52.08,Sunday,Night
+ORD0613,Indian,4.01,19,0,Cloudy,4,2,30,Scooter,4.8,1,0,43.34,Monday,Evening
+ORD0614,Cafe,14.81,19,1,Cloudy,2,3,16,Bike,4.1,1,0,51.91,Tuesday,Evening
+ORD0615,Cafe,2.57,19,5,Cloudy,1,4,30,Bike,4.3,1,1,27.55,Saturday,Evening
+ORD0616,Chinese,7.73,16,5,Clear,2,7,39,Scooter,3.5,0,1,48.47,Saturday,Afternoon
+ORD0617,Italian,9.46,22,3,Clear,1,3,36,Bike,4.6,0,0,34.54,Thursday,Night
+ORD0618,Fast Food,10.69,11,5,Clear,2,4,25,Scooter,4.3,0,1,39.89,Saturday,Morning
+ORD0619,Italian,8.61,15,6,Clear,1,1,33,Bike,4.0,0,1,35.46,Sunday,Afternoon
+ORD0620,Chinese,0.64,16,5,Clear,1,5,35,Bike,3.1,0,1,29.23,Saturday,Afternoon
+ORD0621,Cafe,5.23,11,2,Cloudy,2,7,29,Scooter,4.8,0,0,30.45,Wednesday,Morning
+ORD0622,Italian,8.01,12,2,Cloudy,2,3,36,Bike,4.2,1,0,50.3,Wednesday,Afternoon
+ORD0623,Cafe,1.77,21,2,Rainy,1,7,25,Bike,3.4,1,0,32.03,Wednesday,Night
+ORD0624,Fast Food,5.58,15,5,Cloudy,5,4,18,Bike,4.2,0,1,28.86,Saturday,Afternoon
+ORD0625,Cafe,0.98,19,3,Cloudy,2,5,23,Bike,4.4,1,0,19.26,Thursday,Evening
+ORD0626,Cafe,1.64,17,4,Clear,3,7,32,Bike,4.1,0,0,35.2,Friday,Evening
+ORD0627,Indian,6.26,21,4,Clear,4,3,37,Bike,4.4,1,0,58.16,Friday,Night
+ORD0628,Indian,2.42,13,1,Rainy,1,2,24,Bike,4.2,1,0,30.3,Tuesday,Afternoon
+ORD0629,Dessert,8.73,19,4,Cloudy,1,4,27,Bike,4.9,1,0,33.1,Friday,Evening
+ORD0630,Indian,10.5,14,4,Clear,4,2,31,Scooter,3.1,1,0,84.96,Friday,Afternoon
+ORD0631,Cafe,12.11,10,2,Rainy,5,1,16,Scooter,3.2,0,0,86.01,Wednesday,Morning
+ORD0632,Chinese,3.4,14,2,Clear,4,2,19,Bike,3.3,1,0,34.93,Wednesday,Afternoon
+ORD0633,Cafe,2.93,19,5,Cloudy,2,2,17,Scooter,4.4,1,1,22.86,Saturday,Evening
+ORD0634,Chinese,2.02,21,1,Cloudy,4,6,27,Scooter,4.3,1,0,42.8,Tuesday,Night
+ORD0635,Chinese,9.73,15,0,Cloudy,1,4,28,Bike,4.8,0,0,29.38,Monday,Afternoon
+ORD0636,Indian,10.74,17,6,Foggy,4,1,23,Scooter,4.5,0,1,58.01,Sunday,Evening
+ORD0637,Italian,0.96,13,1,Cloudy,3,2,33,Bike,4.0,1,0,40.48,Tuesday,Afternoon
+ORD0638,Fast Food,14.08,22,1,Foggy,2,5,21,Scooter,5.0,0,0,56.85,Tuesday,Night
+ORD0639,Indian,1.25,17,3,Foggy,4,3,27,Bike,3.5,0,0,35.42,Thursday,Evening
+ORD0640,Indian,8.35,16,5,Cloudy,1,2,29,Bike,4.7,0,1,24.25,Saturday,Afternoon
+ORD0641,Italian,10.78,20,3,Rainy,2,1,32,Scooter,3.9,1,0,81.95,Thursday,Evening
+ORD0642,Fast Food,13.13,13,1,Clear,1,2,13,Bike,4.3,1,0,35.48,Tuesday,Afternoon
+ORD0643,Cafe,10.85,19,1,Clear,5,3,20,Bike,4.5,1,0,59.56,Tuesday,Evening
+ORD0644,Dessert,12.13,16,1,Rainy,3,1,11,Bike,4.3,0,0,47.06,Tuesday,Afternoon
+ORD0645,Dessert,5.42,20,4,Clear,5,4,24,Bike,3.3,1,0,54.61,Friday,Evening
+ORD0646,Cafe,12.31,11,6,Clear,3,1,21,Scooter,3.9,0,1,53.94,Sunday,Morning
+ORD0647,Indian,1.66,15,6,Foggy,4,4,38,Scooter,4.1,0,1,46.98,Sunday,Afternoon
+ORD0648,Fast Food,13.47,18,3,Cloudy,2,1,18,Bike,4.7,0,0,37.1,Thursday,Evening
+ORD0649,Indian,8.44,11,1,Cloudy,4,7,35,Bike,3.9,0,0,53.24,Tuesday,Morning
+ORD0650,Chinese,12.35,9,6,Clear,3,3,27,Scooter,4.8,0,1,48.92,Sunday,Morning
+ORD0651,Indian,7.06,17,2,Clear,3,3,26,Bike,3.9,0,0,35.25,Wednesday,Evening
+ORD0652,Indian,9.83,18,6,Clear,3,1,27,Scooter,4.1,0,1,44.79,Sunday,Evening
+ORD0653,Cafe,8.13,16,5,Clear,1,7,29,Bike,4.6,0,1,34.62,Saturday,Afternoon
+ORD0654,Cafe,11.11,12,5,Clear,2,2,16,Bike,4.2,1,1,32.56,Saturday,Afternoon
+ORD0655,Cafe,1.68,11,6,Clear,4,3,17,Bike,4.9,0,1,17.02,Sunday,Morning
+ORD0656,Dessert,1.38,9,2,Foggy,4,4,26,Bike,4.3,0,0,36.65,Wednesday,Morning
+ORD0657,Chinese,4.08,8,5,Cloudy,5,4,24,Bike,4.0,0,1,42.62,Saturday,Morning
+ORD0658,Cafe,2.81,18,4,Clear,3,5,32,Bike,3.0,0,0,40.82,Friday,Evening
+ORD0659,Fast Food,13.14,14,6,Clear,3,6,25,Bike,3.8,1,1,61.03,Sunday,Afternoon
+ORD0660,Dessert,3.68,13,4,Rainy,3,7,31,Bike,3.6,1,0,59.9,Friday,Afternoon
+ORD0661,Italian,14.65,22,6,Clear,4,6,41,Bike,4.5,0,1,71.36,Sunday,Night
+ORD0662,Fast Food,5.38,22,0,Foggy,5,6,23,Bike,3.4,0,0,53.7,Monday,Night
+ORD0663,Fast Food,3.14,9,0,Clear,1,4,24,Bike,3.4,0,0,22.24,Monday,Morning
+ORD0664,Cafe,11.95,15,0,Clear,2,5,24,Bike,3.4,0,0,49.39,Monday,Afternoon
+ORD0665,Italian,10.05,18,5,Clear,1,6,43,Bike,3.3,0,1,47.71,Saturday,Evening
+ORD0666,Italian,7.72,11,4,Clear,4,6,49,Scooter,3.6,0,0,72.63,Friday,Morning
+ORD0667,Dessert,8.55,15,4,Rainy,3,1,12,Scooter,4.8,0,0,34.66,Friday,Afternoon
+ORD0668,Italian,10.93,22,4,Cloudy,2,1,34,Bike,4.5,0,0,44.42,Friday,Night
+ORD0669,Chinese,3.81,14,2,Rainy,4,1,29,Bike,4.5,1,0,56.39,Wednesday,Afternoon
+ORD0670,Cafe,14.95,12,4,Clear,4,2,24,Bike,4.6,1,0,69.55,Friday,Afternoon
+ORD0671,Italian,14.63,17,2,Rainy,4,6,46,Scooter,3.5,0,0,129.0,Wednesday,Evening
+ORD0672,Dessert,9.93,17,0,Rainy,2,2,23,Bike,4.8,0,0,43.65,Monday,Evening
+ORD0673,Chinese,3.39,19,0,Cloudy,2,5,35,Bike,3.3,1,0,48.87,Monday,Evening
+ORD0674,Indian,10.36,15,5,Clear,5,7,43,Scooter,3.7,0,1,82.24,Saturday,Afternoon
+ORD0675,Indian,1.55,21,6,Clear,5,4,34,Bike,4.2,1,1,42.91,Sunday,Night
+ORD0676,Chinese,0.94,16,0,Rainy,1,6,36,Bike,3.2,0,0,34.27,Monday,Afternoon
+ORD0677,Dessert,4.24,12,6,Rainy,2,4,19,Bike,4.5,1,1,36.16,Sunday,Afternoon
+ORD0678,Chinese,7.21,17,6,Clear,2,7,39,Scooter,3.8,0,1,40.96,Sunday,Evening
+ORD0679,Cafe,13.09,12,5,Clear,2,1,17,Bike,4.6,1,1,40.02,Saturday,Afternoon
+ORD0680,Cafe,11.04,9,1,Clear,5,6,26,Scooter,4.0,0,0,75.16,Tuesday,Morning
+ORD0681,Indian,11.27,12,1,Cloudy,4,3,32,Scooter,3.4,1,0,88.4,Tuesday,Afternoon
+ORD0682,Italian,6.67,10,3,Clear,3,2,40,Bike,4.5,0,0,46.7,Thursday,Morning
+ORD0683,Dessert,5.52,14,5,Foggy,5,2,12,Bike,3.5,1,1,36.39,Saturday,Afternoon
+ORD0684,Indian,5.88,17,3,Rainy,2,6,36,Bike,4.0,0,0,57.29,Thursday,Evening
+ORD0685,Italian,14.82,12,3,Foggy,5,7,48,Scooter,3.2,1,0,169.8,Thursday,Afternoon
+ORD0686,Italian,1.08,15,1,Cloudy,1,1,29,Scooter,4.2,0,0,23.98,Tuesday,Afternoon
+ORD0687,Cafe,13.07,8,5,Clear,2,2,22,Bike,4.3,0,1,39.06,Saturday,Morning
+ORD0688,Fast Food,8.89,10,1,Cloudy,1,1,19,Scooter,3.8,0,0,34.6,Tuesday,Morning
+ORD0689,Fast Food,6.86,10,3,Clear,2,5,20,Bike,4.9,0,0,25.13,Thursday,Morning
+ORD0690,Chinese,11.02,16,5,Foggy,5,4,35,Bike,4.7,0,1,67.69,Saturday,Afternoon
+ORD0691,Cafe,7.56,12,3,Rainy,4,7,33,Car,4.4,1,0,74.71,Thursday,Afternoon
+ORD0692,Italian,13.16,19,4,Clear,3,3,33,Scooter,4.4,1,0,74.47,Friday,Evening
+ORD0693,Dessert,13.56,16,6,Rainy,1,4,21,Bike,3.5,0,1,51.16,Sunday,Afternoon
+ORD0694,Fast Food,6.61,20,5,Foggy,5,4,16,Scooter,4.3,1,1,52.18,Saturday,Evening
+ORD0695,Italian,4.51,16,5,Clear,4,5,37,Car,3.4,0,1,49.56,Saturday,Afternoon
+ORD0696,Fast Food,9.09,8,6,Rainy,5,2,16,Scooter,3.3,0,1,65.79,Sunday,Morning
+ORD0697,Fast Food,13.73,9,3,Cloudy,1,3,23,Scooter,5.0,0,0,38.24,Thursday,Morning
+ORD0698,Fast Food,3.55,12,4,Cloudy,3,2,12,Scooter,4.2,1,0,24.12,Friday,Afternoon
+ORD0699,Dessert,9.53,11,2,Clear,5,6,29,Bike,3.9,0,0,67.81,Wednesday,Morning
+ORD0700,Cafe,9.66,22,6,Clear,2,4,18,Scooter,3.6,0,1,40.39,Sunday,Night
+ORD0701,Dessert,11.13,17,1,Clear,4,6,24,Bike,4.2,0,0,57.76,Tuesday,Evening
+ORD0702,Indian,2.41,16,3,Rainy,5,1,31,Scooter,3.1,0,0,62.8,Thursday,Afternoon
+ORD0703,Italian,10.88,14,6,Clear,4,4,43,Bike,3.2,1,1,88.18,Sunday,Afternoon
+ORD0704,Cafe,13.68,13,6,Foggy,2,2,24,Scooter,3.1,1,1,77.61,Sunday,Afternoon
+ORD0705,Cafe,3.11,14,5,Clear,3,4,18,Bike,4.0,1,1,31.23,Saturday,Afternoon
+ORD0706,Cafe,3.94,8,1,Rainy,3,1,16,Bike,4.2,0,0,26.54,Tuesday,Morning
+ORD0707,Cafe,14.59,8,1,Clear,2,5,26,Bike,3.1,0,0,60.86,Tuesday,Morning
+ORD0708,Dessert,3.12,15,1,Clear,4,6,24,Car,4.4,0,0,25.89,Tuesday,Afternoon
+ORD0709,Cafe,12.89,20,6,Clear,5,6,23,Car,3.5,1,1,69.39,Sunday,Evening
+ORD0710,Chinese,7.64,20,2,Clear,2,2,29,Bike,4.4,1,0,38.34,Wednesday,Evening
+ORD0711,Italian,4.08,9,0,Rainy,1,4,36,Car,5.0,0,0,33.12,Monday,Morning
+ORD0712,Cafe,13.13,19,3,Foggy,4,2,24,Scooter,4.4,1,0,87.42,Thursday,Evening
+ORD0713,Italian,6.96,17,0,Rainy,3,5,36,Scooter,4.8,0,0,57.81,Monday,Evening
+ORD0714,Chinese,7.96,18,6,Foggy,2,4,33,Bike,4.9,0,1,41.16,Sunday,Evening
+ORD0715,Chinese,5.71,16,0,Cloudy,3,4,23,Car,4.0,0,0,30.83,Monday,Afternoon
+ORD0716,Italian,9.1,14,6,Rainy,4,2,31,Bike,4.4,1,1,77.36,Sunday,Afternoon
+ORD0717,Fast Food,2.87,13,0,Cloudy,3,2,11,Scooter,4.7,1,0,15.0,Monday,Afternoon
+ORD0718,Indian,6.17,8,1,Rainy,2,1,33,Scooter,3.7,0,0,54.53,Tuesday,Morning
+ORD0719,Fast Food,14.56,8,4,Clear,4,7,25,Scooter,3.5,0,0,78.45,Friday,Morning
+ORD0720,Fast Food,4.24,9,1,Cloudy,1,7,19,Scooter,4.9,0,0,21.04,Tuesday,Morning
+ORD0721,Dessert,10.02,13,1,Clear,2,5,25,Bike,4.5,1,0,47.81,Tuesday,Afternoon
+ORD0722,Fast Food,5.22,21,5,Rainy,5,7,29,Bike,3.4,1,1,77.11,Saturday,Night
+ORD0723,Cafe,11.72,13,5,Cloudy,2,1,17,Bike,3.9,1,1,38.76,Saturday,Afternoon
+ORD0724,Dessert,2.4,9,0,Clear,4,6,22,Bike,4.6,0,0,27.74,Monday,Morning
+ORD0725,Dessert,14.56,8,6,Clear,2,4,17,Bike,4.1,0,1,39.46,Sunday,Morning
+ORD0726,Chinese,7.08,17,1,Foggy,1,2,21,Scooter,4.3,0,0,40.77,Tuesday,Evening
+ORD0727,Fast Food,3.92,12,0,Rainy,1,4,14,Scooter,4.5,1,0,28.53,Monday,Afternoon
+ORD0728,Chinese,1.57,12,5,Clear,5,4,24,Bike,4.2,1,1,36.01,Saturday,Afternoon
+ORD0729,Italian,2.96,9,4,Rainy,3,3,42,Bike,4.1,0,0,59.27,Friday,Morning
+ORD0730,Indian,8.04,13,3,Rainy,4,6,44,Bike,4.5,1,0,94.47,Thursday,Afternoon
+ORD0731,Dessert,5.39,16,0,Rainy,4,3,22,Bike,4.5,0,0,44.13,Monday,Afternoon
+ORD0732,Italian,12.52,9,4,Foggy,3,7,43,Bike,4.3,0,0,75.55,Friday,Morning
+ORD0733,Italian,6.75,17,3,Rainy,1,4,41,Scooter,3.7,0,0,59.73,Thursday,Evening
+ORD0734,Cafe,4.11,9,2,Clear,1,2,15,Bike,3.8,0,0,20.75,Wednesday,Morning
+ORD0735,Indian,9.45,10,0,Cloudy,2,4,29,Scooter,4.9,0,0,43.41,Monday,Morning
+ORD0736,Italian,10.75,20,0,Cloudy,5,6,48,Bike,3.2,1,0,113.34,Monday,Evening
+ORD0737,Italian,2.92,14,2,Clear,5,3,36,Scooter,3.5,1,0,68.98,Wednesday,Afternoon
+ORD0738,Indian,2.93,13,2,Clear,5,2,36,Scooter,4.0,1,0,63.57,Wednesday,Afternoon
+ORD0739,Indian,1.03,19,0,Clear,2,4,37,Car,4.7,1,0,35.84,Monday,Evening
+ORD0740,Italian,11.18,15,2,Rainy,5,5,36,Scooter,3.3,0,0,107.94,Wednesday,Afternoon
+ORD0741,Indian,10.13,22,1,Rainy,3,6,43,Car,3.6,0,0,75.68,Tuesday,Night
+ORD0742,Italian,7.38,15,3,Rainy,2,6,40,Scooter,3.1,0,0,72.65,Thursday,Afternoon
+ORD0743,Italian,12.74,13,3,Foggy,3,5,40,Scooter,4.4,1,0,96.78,Thursday,Afternoon
+ORD0744,Cafe,12.18,19,3,Cloudy,2,4,22,Bike,3.5,1,0,57.22,Thursday,Evening
+ORD0745,Fast Food,8.99,18,1,Clear,5,6,17,Bike,3.8,0,0,36.1,Tuesday,Evening
+ORD0746,Italian,13.09,17,6,Clear,3,2,34,Bike,3.9,0,1,54.26,Sunday,Evening
+ORD0747,Chinese,3.48,10,2,Clear,3,4,23,Scooter,4.8,0,0,26.37,Wednesday,Morning
+ORD0748,Dessert,2.12,10,4,Clear,3,4,17,Bike,3.8,0,0,17.68,Friday,Morning
+ORD0749,Fast Food,4.41,22,2,Rainy,2,3,20,Scooter,3.3,0,0,35.86,Wednesday,Night
+ORD0750,Fast Food,1.33,8,0,Cloudy,4,6,21,Car,4.0,0,0,22.52,Monday,Morning
+ORD0751,Fast Food,8.2,14,5,Clear,5,6,26,Bike,4.9,1,1,47.99,Saturday,Afternoon
+ORD0752,Cafe,14.08,12,3,Rainy,3,5,32,Bike,4.2,1,0,88.41,Thursday,Afternoon
+ORD0753,Italian,1.07,11,2,Cloudy,4,3,35,Car,5.0,0,0,36.4,Wednesday,Morning
+ORD0754,Cafe,2.27,17,4,Clear,5,7,36,Bike,4.7,0,0,43.62,Friday,Evening
+ORD0755,Italian,7.06,22,0,Clear,5,3,40,Scooter,3.1,0,0,79.62,Monday,Night
+ORD0756,Cafe,14.04,11,1,Clear,3,6,27,Bike,4.3,0,0,52.76,Tuesday,Morning
+ORD0757,Cafe,5.08,21,6,Clear,3,4,29,Scooter,3.6,1,1,51.55,Sunday,Night
+ORD0758,Dessert,7.85,11,1,Foggy,2,3,22,Bike,4.1,0,0,41.43,Tuesday,Morning
+ORD0759,Chinese,1.1,13,4,Clear,4,5,32,Scooter,3.6,1,0,47.25,Friday,Afternoon
+ORD0760,Cafe,2.65,22,0,Clear,4,3,20,Bike,3.7,0,0,25.94,Monday,Night
+ORD0761,Dessert,14.81,15,3,Rainy,3,5,27,Bike,4.8,0,0,64.21,Thursday,Afternoon
+ORD0762,Indian,14.49,15,2,Foggy,5,7,34,Bike,3.4,0,0,103.53,Wednesday,Afternoon
+ORD0763,Chinese,0.57,12,0,Clear,3,3,25,Bike,4.7,1,0,24.36,Monday,Afternoon
+ORD0764,Cafe,14.3,22,6,Clear,5,5,22,Car,3.1,0,1,56.89,Sunday,Night
+ORD0765,Fast Food,9.77,13,1,Clear,5,3,14,Scooter,3.2,1,0,63.25,Tuesday,Afternoon
+ORD0766,Indian,13.08,11,6,Clear,3,7,46,Bike,4.7,0,1,64.89,Sunday,Morning
+ORD0767,Indian,7.09,19,6,Clear,1,3,33,Bike,4.3,1,1,36.6,Sunday,Evening
+ORD0768,Dessert,7.98,21,4,Rainy,4,2,17,Bike,4.5,1,0,54.14,Friday,Night
+ORD0769,Indian,7.59,18,4,Clear,5,5,40,Scooter,3.4,0,0,74.48,Friday,Evening
+ORD0770,Chinese,10.17,20,2,Clear,5,7,33,Scooter,4.1,1,0,86.43,Wednesday,Evening
+ORD0771,Cafe,2.52,16,4,Cloudy,1,5,21,Bike,4.5,0,0,19.19,Friday,Afternoon
+ORD0772,Cafe,0.93,15,4,Clear,2,5,25,Scooter,4.3,0,0,16.94,Friday,Afternoon
+ORD0773,Fast Food,4.96,17,0,Clear,1,1,17,Scooter,3.9,0,0,23.44,Monday,Evening
+ORD0774,Dessert,10.72,19,3,Clear,1,7,26,Car,4.9,1,0,29.68,Thursday,Evening
+ORD0775,Fast Food,3.43,17,2,Foggy,5,3,20,Car,4.4,0,0,32.37,Wednesday,Evening
+ORD0776,Indian,10.26,8,0,Clear,4,5,39,Scooter,4.8,0,0,62.7,Monday,Morning
+ORD0777,Fast Food,14.56,22,3,Cloudy,1,6,27,Scooter,4.5,0,0,51.48,Thursday,Night
+ORD0778,Chinese,1.86,9,6,Cloudy,2,1,22,Bike,4.5,0,1,19.75,Sunday,Morning
+ORD0779,Cafe,10.25,16,0,Clear,3,2,22,Scooter,3.2,0,0,51.19,Monday,Afternoon
+ORD0780,Indian,6.93,15,5,Foggy,1,5,40,Bike,3.7,0,1,46.18,Saturday,Afternoon
+ORD0781,Fast Food,13.09,21,0,Clear,1,5,22,Bike,4.7,1,0,43.16,Monday,Night
+ORD0782,Dessert,3.07,10,4,Clear,2,1,16,Bike,3.5,0,0,17.89,Friday,Morning
+ORD0783,Chinese,10.54,15,3,Cloudy,4,3,21,Scooter,3.2,0,0,62.8,Thursday,Afternoon
+ORD0784,Chinese,12.65,19,2,Cloudy,1,6,31,Bike,3.7,1,0,52.18,Wednesday,Evening
+ORD0785,Fast Food,14.2,8,2,Rainy,1,2,15,Bike,3.4,0,0,45.75,Wednesday,Morning
+ORD0786,Cafe,10.41,17,3,Clear,4,5,25,Bike,4.9,0,0,42.74,Thursday,Evening
+ORD0787,Fast Food,7.71,11,4,Clear,2,3,15,Bike,4.7,0,0,19.42,Friday,Morning
+ORD0788,Indian,9.46,10,1,Cloudy,1,7,41,Bike,4.0,0,0,38.08,Tuesday,Morning
+ORD0789,Fast Food,13.1,13,0,Clear,4,6,19,Scooter,3.1,1,0,79.89,Monday,Afternoon
+ORD0790,Chinese,8.77,14,4,Clear,1,7,34,Scooter,4.4,1,0,47.56,Friday,Afternoon
+ORD0791,Fast Food,0.94,11,5,Clear,3,6,21,Bike,4.2,0,1,20.3,Saturday,Morning
+ORD0792,Cafe,14.0,14,6,Clear,5,2,21,Scooter,4.9,1,1,69.83,Sunday,Afternoon
+ORD0793,Dessert,10.5,16,3,Cloudy,3,4,18,Scooter,4.1,0,0,51.39,Thursday,Afternoon
+ORD0794,Italian,10.31,18,0,Clear,1,6,44,Bike,3.7,0,0,50.69,Monday,Evening
+ORD0795,Fast Food,3.63,9,2,Foggy,2,4,22,Scooter,4.0,0,0,27.64,Wednesday,Morning
+ORD0796,Cafe,10.05,18,6,Clear,5,7,25,Car,5.0,0,1,37.77,Sunday,Evening
+ORD0797,Cafe,6.21,10,1,Cloudy,3,6,30,Bike,4.4,0,0,38.53,Tuesday,Morning
+ORD0798,Dessert,9.94,12,5,Clear,4,2,23,Bike,4.3,1,1,50.59,Saturday,Afternoon
+ORD0799,Chinese,2.05,10,2,Clear,2,1,25,Car,3.5,0,0,21.41,Wednesday,Morning
+ORD0800,Cafe,10.04,18,3,Clear,3,2,23,Scooter,4.5,0,0,44.71,Thursday,Evening
+ORD0801,Cafe,14.99,15,0,Clear,4,2,23,Bike,4.5,0,0,55.45,Monday,Afternoon
+ORD0802,Cafe,1.2,19,3,Rainy,1,1,24,Bike,3.6,1,0,35.82,Thursday,Evening
+ORD0803,Cafe,14.67,17,6,Foggy,4,1,17,Bike,4.0,0,1,57.66,Sunday,Evening
+ORD0804,Indian,6.4,15,0,Rainy,3,3,29,Scooter,3.6,0,0,59.03,Monday,Afternoon
+ORD0805,Indian,13.13,15,4,Clear,3,6,35,Bike,3.5,0,0,69.63,Friday,Afternoon
+ORD0806,Chinese,11.84,19,1,Clear,1,7,41,Bike,3.1,1,0,66.79,Tuesday,Evening
+ORD0807,Fast Food,8.72,19,4,Clear,4,3,16,Scooter,3.6,1,0,51.52,Friday,Evening
+ORD0808,Cafe,11.21,16,4,Rainy,4,1,16,Bike,4.1,0,0,53.66,Friday,Afternoon
+ORD0809,Dessert,13.24,11,3,Cloudy,1,4,20,Bike,3.0,0,0,37.78,Thursday,Morning
+ORD0810,Fast Food,6.36,12,6,Foggy,4,7,25,Bike,3.6,1,1,59.33,Sunday,Afternoon
+ORD0811,Dessert,5.24,12,1,Clear,1,4,21,Scooter,4.8,1,0,30.41,Tuesday,Afternoon
+ORD0812,Fast Food,10.18,15,0,Rainy,2,2,17,Bike,4.2,0,0,47.01,Monday,Afternoon
+ORD0813,Chinese,12.21,14,0,Clear,3,5,32,Scooter,4.2,1,0,68.34,Monday,Afternoon
+ORD0814,Cafe,11.55,16,5,Rainy,2,2,26,Bike,3.8,0,1,57.54,Saturday,Afternoon
+ORD0815,Cafe,12.07,22,2,Rainy,5,2,19,Bike,4.4,0,0,66.34,Wednesday,Night
+ORD0816,Italian,6.82,22,5,Rainy,5,5,46,Bike,3.4,0,1,92.88,Saturday,Night
+ORD0817,Dessert,12.36,21,5,Rainy,5,6,24,Bike,4.6,1,1,80.19,Saturday,Night
+ORD0818,Fast Food,2.24,15,0,Clear,1,1,11,Scooter,3.2,0,0,15.0,Monday,Afternoon
+ORD0819,Fast Food,8.4,9,3,Cloudy,4,4,13,Bike,4.3,0,0,34.13,Thursday,Morning
+ORD0820,Indian,0.58,17,4,Clear,2,2,32,Scooter,3.7,0,0,24.37,Friday,Evening
+ORD0821,Italian,5.21,19,6,Rainy,2,5,43,Bike,4.5,1,1,59.24,Sunday,Evening
+ORD0822,Indian,5.81,11,4,Clear,2,3,34,Car,4.1,0,0,37.45,Friday,Morning
+ORD0823,Indian,6.24,13,4,Rainy,2,2,34,Scooter,3.9,1,0,61.7,Friday,Afternoon
+ORD0824,Indian,10.58,19,1,Foggy,5,4,35,Scooter,3.3,1,0,114.44,Tuesday,Evening
+ORD0825,Dessert,6.13,9,0,Cloudy,2,1,21,Bike,4.3,0,0,31.17,Monday,Morning
+ORD0826,Dessert,7.01,14,6,Cloudy,4,2,20,Bike,4.9,1,1,37.5,Sunday,Afternoon
+ORD0827,Chinese,3.94,10,3,Rainy,5,2,31,Bike,4.7,0,0,51.03,Thursday,Morning
+ORD0828,Chinese,5.91,20,1,Cloudy,2,6,29,Car,3.1,1,0,44.88,Tuesday,Evening
+ORD0829,Indian,3.8,10,2,Rainy,1,5,30,Bike,3.8,0,0,38.62,Wednesday,Morning
+ORD0830,Italian,1.56,18,3,Cloudy,3,3,41,Scooter,4.9,0,0,39.6,Thursday,Evening
+ORD0831,Fast Food,9.25,9,5,Clear,3,3,22,Scooter,4.0,0,1,39.67,Saturday,Morning
+ORD0832,Dessert,10.19,18,3,Foggy,3,7,32,Bike,4.3,0,0,55.93,Thursday,Evening
+ORD0833,Italian,9.48,15,3,Foggy,5,1,34,Scooter,4.8,0,0,76.15,Thursday,Afternoon
+ORD0834,Cafe,7.22,13,4,Cloudy,2,7,30,Scooter,4.7,1,0,46.83,Friday,Afternoon
+ORD0835,Dessert,6.01,8,3,Clear,5,4,27,Scooter,4.0,0,0,46.4,Thursday,Morning
+ORD0836,Dessert,13.02,19,5,Clear,4,1,13,Bike,3.9,1,1,48.97,Saturday,Evening
+ORD0837,Chinese,8.03,8,5,Cloudy,1,2,28,Bike,3.7,0,1,32.2,Saturday,Morning
+ORD0838,Fast Food,7.45,14,0,Clear,1,2,15,Bike,4.4,1,0,26.11,Monday,Afternoon
+ORD0839,Fast Food,0.87,15,3,Cloudy,3,3,20,Scooter,3.6,0,0,21.91,Thursday,Afternoon
+ORD0840,Cafe,5.45,12,4,Clear,3,4,21,Scooter,3.5,1,0,39.62,Friday,Afternoon
+ORD0841,Cafe,6.01,19,3,Clear,3,5,28,Bike,3.7,1,0,48.44,Thursday,Evening
+ORD0842,Dessert,6.28,18,2,Foggy,2,4,25,Car,3.4,0,0,37.24,Wednesday,Evening
+ORD0843,Indian,8.91,12,2,Rainy,4,2,33,Bike,4.4,1,0,77.69,Wednesday,Afternoon
+ORD0844,Chinese,8.24,11,4,Rainy,4,5,26,Scooter,4.2,0,0,64.98,Friday,Morning
+ORD0845,Chinese,9.31,21,0,Rainy,4,4,31,Car,4.0,1,0,78.23,Monday,Night
+ORD0846,Dessert,11.59,13,0,Clear,4,4,23,Scooter,3.8,1,0,74.78,Monday,Afternoon
+ORD0847,Italian,12.29,21,5,Cloudy,3,5,39,Scooter,4.8,1,1,67.13,Saturday,Night
+ORD0848,Indian,10.91,13,5,Clear,1,2,34,Bike,3.1,1,1,54.91,Saturday,Afternoon
+ORD0849,Dessert,14.36,10,1,Foggy,3,4,15,Bike,4.5,0,0,45.45,Tuesday,Morning
+ORD0850,Indian,0.76,16,4,Cloudy,4,5,36,Scooter,4.8,0,0,33.59,Friday,Afternoon
+ORD0851,Indian,3.34,19,3,Clear,3,6,41,Bike,3.9,1,0,55.68,Thursday,Evening
+ORD0852,Indian,0.61,18,6,Cloudy,4,6,41,Bike,4.1,0,1,42.01,Sunday,Evening
+ORD0853,Dessert,9.89,21,4,Rainy,5,2,14,Scooter,4.9,1,0,68.15,Friday,Night
+ORD0854,Chinese,13.52,14,1,Clear,1,5,33,Bike,3.4,1,0,62.1,Tuesday,Afternoon
+ORD0855,Chinese,4.03,8,5,Foggy,5,6,32,Car,4.0,0,1,49.81,Saturday,Morning
+ORD0856,Indian,13.94,22,4,Clear,2,5,42,Scooter,3.9,0,0,69.93,Friday,Night
+ORD0857,Italian,1.37,20,4,Clear,3,4,35,Scooter,3.5,1,0,51.36,Friday,Evening
+ORD0858,Fast Food,14.05,14,5,Rainy,2,2,14,Scooter,4.6,1,1,59.84,Saturday,Afternoon
+ORD0859,Dessert,5.6,12,1,Rainy,3,6,31,Scooter,4.8,1,0,64.24,Tuesday,Afternoon
+ORD0860,Fast Food,1.97,12,5,Rainy,5,7,28,Scooter,4.6,1,1,54.09,Saturday,Afternoon
+ORD0861,Italian,7.55,21,0,Cloudy,4,4,38,Scooter,3.4,1,0,79.4,Monday,Night
+ORD0862,Dessert,4.22,20,3,Rainy,4,7,25,Bike,3.2,1,0,61.43,Thursday,Evening
+ORD0863,Indian,4.63,9,5,Rainy,3,7,35,Scooter,4.2,0,1,53.73,Saturday,Morning
+ORD0864,Chinese,4.96,11,1,Clear,4,1,26,Scooter,3.1,0,0,49.29,Tuesday,Morning
+ORD0865,Fast Food,12.14,19,2,Clear,5,1,16,Bike,4.3,1,0,59.27,Wednesday,Evening
+ORD0866,Cafe,8.32,13,0,Clear,4,2,15,Bike,4.1,1,0,40.56,Monday,Afternoon
+ORD0867,Cafe,5.01,17,2,Clear,5,6,28,Scooter,4.3,0,0,39.88,Wednesday,Evening
+ORD0868,Italian,9.35,22,6,Rainy,2,6,38,Bike,4.2,0,1,60.39,Sunday,Night
+ORD0869,Indian,10.88,18,5,Clear,5,6,43,Car,3.8,0,1,65.08,Saturday,Evening
+ORD0870,Fast Food,4.45,14,0,Clear,1,5,20,Car,3.4,1,0,22.26,Monday,Afternoon
+ORD0871,Indian,6.5,18,3,Clear,1,4,32,Bike,3.6,0,0,34.02,Thursday,Evening
+ORD0872,Fast Food,2.27,12,5,Foggy,1,6,20,Scooter,4.0,1,1,22.03,Saturday,Afternoon
+ORD0873,Italian,3.13,16,3,Foggy,3,4,39,Bike,4.3,0,0,49.57,Thursday,Afternoon
+ORD0874,Italian,10.38,10,4,Rainy,3,2,36,Scooter,4.6,0,0,71.73,Friday,Morning
+ORD0875,Cafe,3.13,8,2,Foggy,3,7,27,Bike,4.5,0,0,37.35,Wednesday,Morning
+ORD0876,Indian,8.11,11,0,Cloudy,5,6,32,Scooter,4.9,0,0,50.15,Monday,Morning
+ORD0877,Dessert,10.78,16,3,Rainy,3,2,11,Bike,3.6,0,0,44.13,Thursday,Afternoon
+ORD0878,Cafe,2.05,11,1,Clear,2,6,22,Bike,3.1,0,0,24.47,Tuesday,Morning
+ORD0879,Indian,8.73,9,3,Cloudy,1,1,32,Bike,3.7,0,0,38.78,Thursday,Morning
+ORD0880,Cafe,4.22,17,1,Cloudy,5,3,16,Bike,4.5,0,0,29.26,Tuesday,Evening
+ORD0881,Dessert,14.46,21,5,Rainy,1,2,15,Bike,3.9,1,1,49.56,Saturday,Night
+ORD0882,Chinese,7.51,21,0,Cloudy,3,6,30,Bike,4.6,1,0,46.54,Monday,Night
+ORD0883,Chinese,12.19,12,3,Rainy,5,3,33,Bike,4.1,1,0,108.74,Thursday,Afternoon
+ORD0884,Chinese,8.48,10,6,Cloudy,4,2,27,Scooter,4.9,0,1,37.47,Sunday,Morning
+ORD0885,Chinese,1.13,20,3,Foggy,2,5,27,Scooter,4.9,1,0,31.85,Thursday,Evening
+ORD0886,Fast Food,9.68,19,6,Clear,3,6,23,Scooter,3.1,1,1,63.22,Sunday,Evening
+ORD0887,Chinese,14.3,20,0,Cloudy,3,5,35,Car,3.9,1,0,66.44,Monday,Evening
+ORD0888,Dessert,9.22,16,3,Clear,2,1,16,Bike,4.2,0,0,28.87,Thursday,Afternoon
+ORD0889,Italian,12.38,11,1,Rainy,2,6,42,Bike,3.5,0,0,84.89,Tuesday,Morning
+ORD0890,Italian,13.32,13,3,Cloudy,4,7,50,Bike,3.8,1,0,104.67,Thursday,Afternoon
+ORD0891,Fast Food,3.81,9,2,Clear,3,1,19,Scooter,4.4,0,0,27.45,Wednesday,Morning
+ORD0892,Chinese,3.57,13,5,Rainy,3,3,30,Car,3.5,1,1,56.64,Saturday,Afternoon
+ORD0893,Chinese,9.36,10,4,Clear,1,2,31,Bike,4.2,0,0,41.77,Friday,Morning
+ORD0894,Chinese,6.46,19,1,Rainy,5,4,23,Bike,4.4,1,0,63.49,Tuesday,Evening
+ORD0895,Cafe,12.68,19,2,Clear,5,1,19,Bike,3.2,1,0,72.81,Wednesday,Evening
+ORD0896,Indian,13.55,16,6,Cloudy,1,4,37,Scooter,4.0,0,1,54.6,Sunday,Afternoon
+ORD0897,Cafe,5.62,18,5,Clear,5,4,20,Scooter,3.5,0,1,41.46,Saturday,Evening
+ORD0898,Indian,3.93,9,0,Rainy,2,2,31,Bike,4.4,0,0,37.11,Monday,Morning
+ORD0899,Chinese,11.82,22,1,Clear,5,3,32,Bike,3.4,0,0,71.79,Tuesday,Night
+ORD0900,Chinese,4.48,19,4,Cloudy,5,2,22,Scooter,4.8,1,0,43.12,Friday,Evening
+ORD0901,Cafe,12.43,19,5,Foggy,1,6,29,Scooter,3.9,1,1,63.04,Saturday,Evening
+ORD0902,Cafe,6.64,16,6,Foggy,4,1,22,Bike,3.4,0,1,46.53,Sunday,Afternoon
+ORD0903,Indian,10.18,12,4,Cloudy,5,4,28,Scooter,3.9,1,0,76.72,Friday,Afternoon
+ORD0904,Italian,1.89,15,0,Cloudy,5,2,31,Bike,3.8,0,0,45.24,Monday,Afternoon
+ORD0905,Indian,9.55,9,0,Clear,4,2,29,Scooter,3.9,0,0,58.32,Monday,Morning
+ORD0906,Cafe,7.05,13,6,Clear,1,2,22,Scooter,4.2,1,1,31.32,Sunday,Afternoon
+ORD0907,Dessert,9.01,10,1,Clear,4,1,10,Bike,4.0,0,0,30.28,Tuesday,Morning
+ORD0908,Cafe,2.94,19,6,Cloudy,1,3,26,Bike,3.3,1,1,31.42,Sunday,Evening
+ORD0909,Dessert,11.18,19,3,Foggy,2,7,21,Scooter,3.1,1,0,73.07,Thursday,Evening
+ORD0910,Fast Food,13.01,21,0,Clear,1,2,18,Bike,4.5,1,0,36.89,Monday,Night
+ORD0911,Cafe,3.64,17,5,Foggy,2,1,14,Scooter,4.1,0,1,22.64,Saturday,Evening
+ORD0912,Fast Food,1.89,12,3,Rainy,2,4,16,Scooter,3.7,1,0,29.21,Thursday,Afternoon
+ORD0913,Italian,0.84,19,2,Rainy,1,6,47,Scooter,4.6,1,0,47.33,Wednesday,Evening
+ORD0914,Indian,9.81,15,4,Clear,3,7,38,Bike,3.8,0,0,52.98,Friday,Afternoon
+ORD0915,Dessert,9.3,17,3,Clear,1,5,19,Bike,4.6,0,0,27.99,Thursday,Evening
+ORD0916,Indian,8.43,21,4,Rainy,5,7,46,Scooter,3.6,1,0,129.73,Friday,Night
+ORD0917,Fast Food,3.86,8,6,Rainy,5,7,28,Bike,3.1,0,1,59.49,Sunday,Morning
+ORD0918,Dessert,6.17,12,3,Clear,3,1,19,Scooter,4.9,1,0,36.66,Thursday,Afternoon
+ORD0919,Indian,9.12,10,6,Rainy,2,5,31,Scooter,3.8,0,1,59.85,Sunday,Morning
+ORD0920,Cafe,7.7,11,2,Cloudy,3,2,15,Bike,4.6,0,0,26.58,Wednesday,Morning
+ORD0921,Chinese,14.82,9,0,Cloudy,5,2,25,Scooter,3.6,0,0,80.34,Monday,Morning
+ORD0922,Fast Food,2.48,16,2,Foggy,3,7,27,Bike,4.3,0,0,31.03,Wednesday,Afternoon
+ORD0923,Indian,10.58,10,0,Clear,1,1,31,Bike,4.7,0,0,33.68,Monday,Morning
+ORD0924,Fast Food,6.36,22,6,Clear,3,5,16,Car,3.1,0,1,29.73,Sunday,Night
+ORD0925,Fast Food,6.71,9,0,Cloudy,2,2,15,Car,4.7,0,0,24.78,Monday,Morning
+ORD0926,Dessert,10.91,17,4,Clear,1,4,21,Bike,4.1,0,0,36.31,Friday,Evening
+ORD0927,Dessert,10.54,18,5,Clear,4,3,23,Car,4.2,0,1,41.73,Saturday,Evening
+ORD0928,Chinese,14.87,16,2,Clear,5,3,27,Bike,4.0,0,0,74.4,Wednesday,Afternoon
+ORD0929,Cafe,2.36,14,3,Clear,5,2,16,Bike,4.7,1,0,25.28,Thursday,Afternoon
+ORD0930,Fast Food,2.01,13,2,Clear,3,5,26,Bike,3.1,1,0,34.11,Wednesday,Afternoon
+ORD0931,Indian,11.0,8,4,Clear,1,6,38,Car,3.5,0,0,50.76,Friday,Morning
+ORD0932,Italian,8.89,12,0,Clear,4,2,29,Bike,4.8,1,0,55.9,Monday,Afternoon
+ORD0933,Fast Food,4.48,19,4,Clear,1,6,26,Bike,4.5,1,0,24.06,Friday,Evening
+ORD0934,Fast Food,1.65,18,1,Rainy,5,6,17,Bike,3.0,0,0,39.55,Tuesday,Evening
+ORD0935,Chinese,1.74,21,1,Rainy,1,5,29,Scooter,4.0,1,0,35.14,Tuesday,Night
+ORD0936,Cafe,13.47,22,3,Rainy,4,6,23,Bike,4.1,0,0,70.38,Thursday,Night
+ORD0937,Italian,3.28,18,4,Clear,3,4,41,Bike,3.8,0,0,48.81,Friday,Evening
+ORD0938,Dessert,5.19,10,6,Clear,2,5,23,Bike,3.6,0,1,32.75,Sunday,Morning
+ORD0939,Dessert,3.79,8,3,Rainy,1,2,14,Scooter,4.4,0,0,18.77,Thursday,Morning
+ORD0940,Indian,5.65,11,6,Rainy,2,7,37,Scooter,3.4,0,1,62.65,Sunday,Morning
+ORD0941,Italian,1.51,20,3,Rainy,5,4,34,Bike,4.6,1,0,62.72,Thursday,Evening
+ORD0942,Dessert,8.03,9,1,Clear,3,1,13,Scooter,4.6,0,0,28.46,Tuesday,Morning
+ORD0943,Indian,1.48,9,3,Foggy,3,3,29,Bike,3.8,0,0,35.82,Thursday,Morning
+ORD0944,Cafe,12.11,10,1,Clear,1,2,25,Scooter,3.6,0,0,49.93,Tuesday,Morning
+ORD0945,Indian,3.89,15,0,Clear,3,2,36,Bike,3.6,0,0,38.93,Monday,Afternoon
+ORD0946,Dessert,8.33,15,6,Rainy,1,2,11,Bike,4.0,0,1,30.93,Sunday,Afternoon
+ORD0947,Chinese,13.26,19,4,Rainy,1,4,34,Bike,4.4,1,0,70.31,Friday,Evening
+ORD0948,Chinese,9.94,22,3,Clear,2,1,24,Scooter,3.7,0,0,46.71,Thursday,Night
+ORD0949,Chinese,8.23,14,1,Clear,3,7,31,Scooter,4.2,1,0,59.47,Tuesday,Afternoon
+ORD0950,Dessert,5.2,13,2,Cloudy,1,5,22,Bike,3.8,1,0,35.7,Wednesday,Afternoon
+ORD0951,Chinese,5.33,16,6,Clear,2,1,20,Scooter,3.6,0,1,35.45,Sunday,Afternoon
+ORD0952,Italian,10.21,11,3,Clear,4,4,41,Bike,3.0,0,0,74.14,Thursday,Morning
+ORD0953,Cafe,14.92,19,5,Clear,2,2,20,Bike,3.0,1,1,60.37,Saturday,Evening
+ORD0954,Indian,10.1,8,0,Cloudy,2,3,34,Bike,3.5,0,0,55.86,Monday,Morning
+ORD0955,Indian,8.59,15,0,Clear,1,2,33,Scooter,3.8,0,0,39.96,Monday,Afternoon
+ORD0956,Dessert,11.09,14,2,Foggy,5,5,19,Scooter,4.7,1,0,76.6,Wednesday,Afternoon
+ORD0957,Chinese,7.25,14,1,Rainy,5,6,27,Bike,4.6,1,0,73.94,Tuesday,Afternoon
+ORD0958,Chinese,1.37,22,3,Foggy,5,3,25,Bike,3.5,0,0,34.69,Thursday,Night
+ORD0959,Fast Food,8.65,10,6,Foggy,2,2,11,Bike,3.5,0,1,33.71,Sunday,Morning
+ORD0960,Cafe,14.39,11,1,Clear,1,7,29,Bike,3.5,0,0,44.39,Tuesday,Morning
+ORD0961,Italian,3.04,17,0,Clear,3,3,38,Bike,3.7,0,0,43.56,Monday,Evening
+ORD0962,Indian,10.51,16,1,Clear,2,6,42,Bike,4.0,0,0,57.55,Tuesday,Afternoon
+ORD0963,Fast Food,3.41,22,0,Clear,2,1,19,Bike,3.9,0,0,15.03,Monday,Night
+ORD0964,Fast Food,8.27,13,1,Cloudy,1,4,16,Bike,3.4,1,0,35.05,Tuesday,Afternoon
+ORD0965,Dessert,1.9,22,2,Clear,4,2,15,Bike,3.3,0,0,27.95,Wednesday,Night
+ORD0966,Indian,7.03,22,4,Clear,2,5,34,Bike,3.0,0,0,45.2,Friday,Night
+ORD0967,Dessert,11.46,12,2,Clear,4,1,12,Bike,3.3,1,0,54.66,Wednesday,Afternoon
+ORD0968,Italian,5.54,10,2,Foggy,4,2,32,Scooter,4.4,0,0,59.84,Wednesday,Morning
+ORD0969,Fast Food,10.14,16,4,Clear,5,1,10,Bike,3.5,0,0,36.42,Friday,Afternoon
+ORD0970,Fast Food,12.03,12,4,Clear,1,5,18,Scooter,3.9,1,0,48.36,Friday,Afternoon
+ORD0971,Cafe,13.94,12,3,Clear,4,2,17,Bike,4.2,1,0,62.77,Thursday,Afternoon
+ORD0972,Italian,3.9,21,6,Foggy,1,6,41,Bike,4.8,1,1,44.63,Sunday,Night
+ORD0973,Fast Food,6.29,11,6,Rainy,5,6,18,Bike,4.8,0,1,40.81,Sunday,Morning
+ORD0974,Italian,2.71,21,3,Clear,1,5,36,Bike,4.5,1,0,30.15,Thursday,Night
+ORD0975,Indian,14.89,11,2,Clear,2,3,34,Bike,3.1,0,0,67.53,Wednesday,Morning
+ORD0976,Chinese,13.94,19,2,Clear,4,5,26,Car,4.2,1,0,63.85,Wednesday,Evening
+ORD0977,Fast Food,8.33,8,0,Clear,1,3,16,Bike,4.6,0,0,20.32,Monday,Morning
+ORD0978,Cafe,12.71,14,0,Foggy,3,2,15,Bike,3.0,1,0,67.19,Monday,Afternoon
+ORD0979,Indian,8.05,16,6,Cloudy,1,3,30,Scooter,4.1,0,1,36.6,Sunday,Afternoon
+ORD0980,Italian,9.54,10,3,Clear,4,2,32,Bike,4.7,0,0,45.46,Thursday,Morning
+ORD0981,Dessert,1.79,19,5,Cloudy,5,2,22,Scooter,3.9,1,1,35.5,Saturday,Evening
+ORD0982,Indian,11.45,20,5,Clear,5,7,40,Bike,3.0,1,1,97.22,Saturday,Evening
+ORD0983,Fast Food,2.35,22,3,Cloudy,4,4,19,Car,3.0,0,0,31.5,Thursday,Night
+ORD0984,Italian,12.48,9,0,Cloudy,2,2,41,Bike,3.8,0,0,53.12,Monday,Morning
+ORD0985,Chinese,11.84,10,6,Clear,2,3,26,Bike,3.3,0,1,48.59,Sunday,Morning
+ORD0986,Indian,10.78,8,6,Cloudy,5,4,37,Scooter,4.3,0,1,74.87,Sunday,Morning
+ORD0987,Fast Food,1.02,13,0,Clear,5,4,17,Bike,4.4,1,0,19.13,Monday,Afternoon
+ORD0988,Cafe,4.9,18,5,Clear,4,2,14,Bike,3.4,0,1,21.82,Saturday,Evening
+ORD0989,Dessert,4.32,18,1,Clear,2,5,28,Scooter,4.8,0,0,34.56,Tuesday,Evening
+ORD0990,Italian,5.72,14,1,Clear,5,5,37,Bike,3.9,1,0,66.44,Tuesday,Afternoon
+ORD0991,Indian,1.77,18,0,Cloudy,2,6,40,Bike,3.3,0,0,48.47,Monday,Evening
+ORD0992,Indian,14.09,18,1,Foggy,5,4,28,Scooter,4.5,0,0,82.28,Tuesday,Evening
+ORD0993,Chinese,8.53,9,4,Rainy,1,2,23,Bike,4.6,0,0,36.68,Friday,Morning
+ORD0994,Chinese,4.93,15,3,Cloudy,3,7,30,Scooter,4.3,0,0,38.94,Thursday,Afternoon
+ORD0995,Cafe,6.26,21,3,Cloudy,1,5,23,Car,4.7,1,0,26.23,Thursday,Night
+ORD0996,Dessert,6.98,13,0,Clear,5,7,31,Bike,4.5,1,0,60.98,Monday,Afternoon
+ORD0997,Cafe,9.21,21,2,Clear,3,2,14,Bike,4.8,1,0,36.48,Wednesday,Night
+ORD0998,Fast Food,7.98,11,5,Clear,3,2,11,Bike,3.9,0,1,25.94,Saturday,Morning
+ORD0999,Fast Food,13.83,12,0,Rainy,5,4,22,Bike,4.5,1,0,86.5,Monday,Afternoon
+ORD1000,Cafe,7.71,15,1,Foggy,5,7,30,Car,5.0,0,0,55.47,Tuesday,Afternoon
